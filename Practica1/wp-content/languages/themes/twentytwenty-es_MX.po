@@ -222,11 +222,11 @@ msgstr "Pie de página"
 msgid "By %s"
 msgstr "Por %s"
 
-#: template-parts/content-cover.php:138 template-parts/content.php:48
+#: template-parts/content.php:48 template-parts/content-cover.php:138
 msgid "Pages:"
 msgstr "Páginas:"
 
-#: template-parts/content-cover.php:138 template-parts/content.php:48
+#: template-parts/content.php:48 template-parts/content-cover.php:138
 msgid "Page"
 msgstr "Página"
 
@@ -282,7 +282,7 @@ msgstr "Autor de la publicación"
 msgid "Social Links Menu"
 msgstr "Menú de enlaces sociales"
 
-#: inc/starter-content.php:176 inc/starter-content.php:186 functions.php:494
+#: functions.php:492 inc/starter-content.php:176 inc/starter-content.php:186
 msgid "Primary"
 msgstr "Principal"
 
@@ -302,59 +302,59 @@ msgstr "Buscar"
 msgid "Continue reading"
 msgstr "Continuar leyendo"
 
-#: functions.php:551
+#: functions.php:549
 msgctxt "Short name of the larger font size in the block editor."
 msgid "XL"
 msgstr "XL"
 
-#: functions.php:550
+#: functions.php:548
 msgctxt "Name of the larger font size in the block editor"
 msgid "Larger"
 msgstr "Más grande"
 
-#: functions.php:545
+#: functions.php:543
 msgctxt "Short name of the large font size in the block editor."
 msgid "L"
 msgstr "L"
 
-#: functions.php:544
+#: functions.php:542
 msgctxt "Name of the large font size in the block editor"
 msgid "Large"
 msgstr "Grande"
 
-#: functions.php:539
+#: functions.php:537
 msgctxt "Short name of the regular font size in the block editor."
 msgid "M"
 msgstr "M"
 
-#: functions.php:538
+#: functions.php:536
 msgctxt "Name of the regular font size in the block editor"
 msgid "Regular"
 msgstr "Normal"
 
-#: functions.php:533
+#: functions.php:531
 msgctxt "Short name of the small font size in the block editor."
 msgid "S"
 msgstr "S"
 
-#: functions.php:532
+#: functions.php:530
 msgctxt "Name of the small font size in the block editor"
 msgid "Small"
 msgstr "Pequeña"
 
-#: functions.php:517
+#: functions.php:515
 msgid "Background Color"
 msgstr "Color de Fondo"
 
-#: functions.php:504
+#: functions.php:502
 msgid "Subtle Background"
 msgstr "Fondo del Subtítulo"
 
-#: functions.php:499
+#: functions.php:497
 msgid "Secondary"
 msgstr "Secundario"
 
-#: functions.php:489
+#: functions.php:487
 msgid "Accent Color"
 msgstr "Color de Acento"
 
