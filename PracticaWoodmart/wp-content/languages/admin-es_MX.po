@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.4.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-05-26 13:33:56+0000\n"
+"PO-Revision-Date: 2020-06-04 23:13:29+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -498,39 +498,39 @@ msgstr "<a href=\"https://es-mx.wordpress.org/support/article/pages-add-new-scre
 
 #: wp-admin/edit-form-advanced.php:313
 msgid "<a href=\"https://wordpress.org/support/article/wordpress-editor/\">Documentation on Writing and Editing Posts</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/wordpress-editor/\">Documentación sobre Escribir y Editar Publicaciones</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/wordpress-editor/\">Documentación sobre escribir y editar entradas</a>"
 
 #: wp-admin/upload.php:75 wp-admin/upload.php:252
 msgid "<a href=\"https://wordpress.org/support/article/media-library-screen/\">Documentation on Media Library</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/media-library-screen/\">Documentación sobre la Biblioteca de Medios</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/media-library-screen/\">Documentación sobre la biblioteca de medios</a>"
 
 #: wp-admin/revision.php:145
 msgid "<a href=\"https://wordpress.org/support/article/revisions/\">Revisions Management</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/revisions/\">Gestión de Revisiones</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/revisions/\">Gestión de revisiones</a>"
 
 #: wp-admin/media.php:96 wp-admin/edit-form-advanced.php:349
 msgid "<a href=\"https://wordpress.org/support/article/edit-media/\">Documentation on Edit Media</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/edit-media/\">Documentación sobre Editar los Medios</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/edit-media/\">Documentación sobre editar medios</a>"
 
 #: wp-admin/edit-comments.php:196
 msgid "<a href=\"https://wordpress.org/support/article/keyboard-shortcuts/\">Documentation on Keyboard Shortcuts</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/keyboard-shortcuts/\">Documentación sobre los Atajos del Teclado</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/keyboard-shortcuts/\">Documentación sobre los atajos del teclado</a>"
 
 #: wp-admin/edit-comments.php:195
 msgid "<a href=\"https://wordpress.org/support/article/comment-spam/\">Documentation on Comment Spam</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/comment-spam/\">Documentación sobre el Spam de los Comentarios</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/comment-spam/\">Documentación sobre el spam de los comentarios</a>"
 
 #: wp-admin/plugins.php:471
 msgid "<a href=\"https://wordpress.org/support/article/managing-plugins/\">Documentation on Managing Plugins</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/managing-plugins/\">Documentación sobre la Gestión de los Plugins</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/managing-plugins/\">Documentación sobre la gestión de los plugins</a>"
 
 #: wp-admin/index.php:107
 msgid "<a href=\"https://wordpress.org/support/article/dashboard-screen/\">Documentation on Dashboard</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/dashboard-screen/\">Documentación sobre el Escritorio</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/dashboard-screen/\">Documentación sobre el escritorio</a>"
 
 #: wp-admin/user-new.php:268
 msgid "<a href=\"https://wordpress.org/support/article/users-add-new-screen/\">Documentation on Adding New Users</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/users-add-new-screen/\">Documentación sobre Agregar Nuevos Usuarios</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/users-add-new-screen/\">Documentación sobre agregar nuevos usuarios</a>"
 
 #. translators: %s: URL to Site Health Status page.
 #: wp-admin/site-health-info.php:90
@@ -544,31 +544,31 @@ msgstr "Los resultados están aún cargando&hellip;"
 
 #: wp-admin/options-permalink.php:400
 msgid "<a href=\"https://wordpress.org/support/article/nginx/\">Documentation on Nginx configuration</a>."
-msgstr "<a href=\"https://wordpress.org/support/article/nginx/\">Documentación sobre la Configuración de Nginx</a>."
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/nginx/\">Documentación sobre la configuración de Nginx</a>."
 
 #: wp-admin/options-permalink.php:199
 msgid "https://wordpress.org/support/article/using-permalinks/"
-msgstr "https://wordpress.org/support/article/using-permalinks/"
+msgstr "https://es-mx.wordpress.org/support/article/using-permalinks/"
 
 #: wp-admin/options-permalink.php:61
 msgid "<a href=\"https://wordpress.org/support/article/using-permalinks/\">Documentation on Using Permalinks</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/using-permalinks/\">Documentación sobre el uso de los Enlaces Permanentes</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/using-permalinks/\">Documentación sobre el uso de los enlaces permanentes</a>"
 
 #: wp-admin/options-permalink.php:60
 msgid "<a href=\"https://wordpress.org/support/article/settings-permalinks-screen/\">Documentation on Permalinks Settings</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/settings-permalinks-screen/\">Documentación sobre los Ajustes de los Enlaces Permanentes</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/settings-permalinks-screen/\">Documentación sobre los ajustes de los enlaces permanentes</a>"
 
 #: wp-admin/update-core.php:730
 msgid "<a href=\"https://wordpress.org/support/article/dashboard-updates-screen/\">Documentation on Updating WordPress</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/dashboard-updates-screen/\">Documentation sobre cómo Actualizar WordPress</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/dashboard-updates-screen/\">Documentation sobre cómo actualizar WordPress</a>"
 
 #: wp-admin/update-core.php:251
 msgid "<strong>Important:</strong> Before updating, please <a href=\"https://wordpress.org/support/article/wordpress-backups/\">back up your database and files</a>. For help with updates, visit the <a href=\"https://wordpress.org/support/article/updating-wordpress/\">Updating WordPress</a> documentation page."
-msgstr "<strong>Importante:</strong> Antes de actualizar, por favor,<a href=\"https://wordpress.org/support/article/wordpress-backups/\">haz un respaldo de tu base de datos y archivos</a>. Si necesitas ayuda con las actualizaciones, visita la página de documentación sobre cómo <a href=\"https://wordpress.org/support/article/updating-wordpress/\">actualizar WordPress</a>."
+msgstr "<strong>Importante:</strong> Antes de actualizar, por favor,<a href=\"https://es-mx.wordpress.org/support/article/wordpress-backups/\">haz un respaldo de tu base de datos y archivos</a>. Si necesitas ayuda con las actualizaciones, visita la página de documentación sobre cómo <a href=\"https://es-mx.wordpress.org/support/article/updating-wordpress/\">actualizar WordPress</a>."
 
 #: wp-admin/nav-menus.php:604
 msgid "<a href=\"https://wordpress.org/support/article/appearance-menus-screen/\">Documentation on Menus</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/appearance-menus-screen/\">Documentación sobre los Menús</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/appearance-menus-screen/\">Documentación sobre los menús</a>"
 
 #: wp-admin/plugin-editor.php:143
 msgid "<a href=\"https://developer.wordpress.org/plugins/\">Documentation on Writing Plugins</a>"
@@ -576,7 +576,7 @@ msgstr "<a href=\"https://developer.wordpress.org/plugins/\">Documentación sobr
 
 #: wp-admin/plugin-editor.php:142
 msgid "<a href=\"https://wordpress.org/support/article/plugins-editor-screen/\">Documentation on Editing Plugins</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/plugins-editor-screen/\">Documentación sobre la Edición de Plugins</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/plugins-editor-screen/\">Documentación sobre la edición de plugins</a>"
 
 #: wp-admin/theme-editor.php:54
 msgid "<a href=\"https://developer.wordpress.org/themes/basics/template-tags/\">Documentation on Template Tags</a>"
@@ -584,11 +584,11 @@ msgstr "<a href=\"https://developer.wordpress.org/themes/basics/template-tags/\"
 
 #: wp-admin/theme-editor.php:53
 msgid "<a href=\"https://wordpress.org/support/article/editing-files/\">Documentation on Editing Files</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/editing-files/\">Documentación sobre la Edición de Archivos</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/editing-files/\">Documentación sobre la edición de archivos</a>"
 
 #: wp-admin/theme-editor.php:52 wp-admin/themes.php:148
 msgid "<a href=\"https://wordpress.org/support/article/using-themes/\">Documentation on Using Themes</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/using-themes/\">Documentación sobre el Uso de Temas</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/using-themes/\">Documentación sobre el uso de temas</a>"
 
 #: wp-admin/theme-editor.php:51
 msgid "<a href=\"https://developer.wordpress.org/themes/\">Documentation on Theme Development</a>"
@@ -596,11 +596,11 @@ msgstr "<a href=\"https://developer.wordpress.org/themes/\">Documentación sobre
 
 #: wp-admin/comment.php:56 wp-admin/edit-comments.php:194
 msgid "<a href=\"https://wordpress.org/support/article/comments-screen/\">Documentation on Comments</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/comments-screen/\">Documentación sobre los Comentarios</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/comments-screen/\">Documentación sobre los comentarios</a>"
 
 #: wp-admin/options-general.php:377
 msgid "<a href=\"https://wordpress.org/support/article/formatting-date-and-time/\">Documentation on date and time formatting</a>."
-msgstr "<a href=\"https://wordpress.org/support/article/formatting-date-and-time/\">Documentación sobre el formato de fecha y hora</a>."
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/formatting-date-and-time/\">Documentación sobre el formato de fecha y hora</a>."
 
 #. translators: %s: UTC time.
 #: wp-admin/options-general.php:246
@@ -618,21 +618,21 @@ msgstr "Dirección de Correo Electrónico de Administración"
 
 #: wp-admin/options-general.php:100
 msgid "https://wordpress.org/support/article/giving-wordpress-its-own-directory/"
-msgstr "https://wordpress.org/support/article/giving-wordpress-its-own-directory/"
+msgstr "https://es-mx.wordpress.org/support/article/giving-wordpress-its-own-directory/"
 
 #: wp-admin/options-general.php:48
 msgid "<a href=\"https://wordpress.org/support/article/settings-general-screen/\">Documentation on General Settings</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/settings-general-screen/\">Documentación sobre los Ajustes Generales</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/settings-general-screen/\">Documentación sobre los ajustes generales</a>"
 
 #: wp-admin/includes/dashboard.php:1922
 msgid "https://wordpress.org/support/article/first-steps-with-wordpress-b/"
-msgstr "https://wordpress.org/support/article/first-steps-with-wordpress-b/"
+msgstr "https://es-mx.wordpress.org/support/article/first-steps-with-wordpress-b/"
 
 #: wp-admin/includes/file.php:319 wp-admin/theme-editor.php:325
 #: wp-admin/plugin-editor.php:296 wp-admin/options-permalink.php:353
 #: wp-admin/options-permalink.php:378 wp-admin/options-permalink.php:411
 msgid "https://wordpress.org/support/article/changing-file-permissions/"
-msgstr "https://wordpress.org/support/article/changing-file-permissions/"
+msgstr "https://es-mx.wordpress.org/support/article/changing-file-permissions/"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/file.php:318 wp-admin/theme-editor.php:324
@@ -712,19 +712,19 @@ msgstr "Tu versión de WordPress (%s) está actualizada"
 
 #: wp-admin/includes/ms.php:1152
 msgid "<a href=\"https://wordpress.org/support/article/network-admin-sites-screen/\">Documentation on Site Management</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/network-admin-sites-screen/\">Documentación sobre la Gestión del Sitio</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/network-admin-sites-screen/\">Documentación sobre la gestión del sitio</a>"
 
 #: wp-admin/includes/meta-boxes.php:792
 msgid "https://wordpress.org/support/article/introduction-to-blogging/#managing-comments"
-msgstr "https://wordpress.org/support/article/introduction-to-blogging/#managing-comments"
+msgstr "https://es-mx.wordpress.org/support/article/introduction-to-blogging/#managing-comments"
 
 #: wp-admin/includes/meta-boxes.php:768
 msgid "https://wordpress.org/support/article/custom-fields/"
-msgstr "https://wordpress.org/support/article/custom-fields/"
+msgstr "https://es-mx.wordpress.org/support/article/custom-fields/"
 
 #: wp-admin/includes/meta-boxes.php:731
 msgid "https://wordpress.org/support/article/introduction-to-blogging/#comments"
-msgstr "https://wordpress.org/support/article/introduction-to-blogging/#comments"
+msgstr "https://es-mx.wordpress.org/support/article/introduction-to-blogging/#comments"
 
 #. translators: Post date information. %s: Date on which the post is to be
 #. published.
@@ -817,15 +817,15 @@ msgstr "Resumen de un informe de exportación"
 
 #: wp-admin/options-writing.php:52
 msgid "<a href=\"https://wordpress.org/support/article/settings-writing-screen/\">Documentation on Writing Settings</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/settings-writing-screen/\">Documentación sobre los Ajustes de Escritura</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/settings-writing-screen/\">Documentación sobre los ajustes de escritura</a>"
 
 #: wp-admin/edit-tags.php:311
 msgid "<a href=\"https://wordpress.org/support/article/posts-tags-screen/\">Documentation on Tags</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/posts-tags-screen/\">Documentación sobre las Etiquetas</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/posts-tags-screen/\">Documentación sobre las etiquetas</a>"
 
 #: wp-admin/edit-tags.php:307
 msgid "<a href=\"https://wordpress.org/support/article/posts-categories-screen/\">Documentation on Categories</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/posts-categories-screen/\">Documentación sobre las Categorías</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/posts-categories-screen/\">Documentación sobre las categorías</a>"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/options-reading.php:169
@@ -842,11 +842,11 @@ msgstr "¡<strong>Advertencia:</strong> estas páginas no deberían ser las mism
 
 #: wp-admin/options-reading.php:51
 msgid "<a href=\"https://wordpress.org/support/article/settings-reading-screen/\">Documentation on Reading Settings</a>"
-msgstr "<a href=\"https://wordpress.org/support/article/settings-reading-screen/\">Documentación sobre los Ajustes de Lectura</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/article/settings-reading-screen/\">Documentación sobre los ajustes de lectura</a>"
 
 #: wp-admin/options-reading.php:34 wp-admin/options-reading.php:170
 msgid "https://wordpress.org/support/article/wordpress-feeds/"
-msgstr "https://wordpress.org/support/article/wordpress-feeds/"
+msgstr "https://es-mx.wordpress.org/support/article/wordpress-feeds/"
 
 #. translators: %s: Site title.
 #: wp-admin/ms-delete-site.php:91
@@ -1547,7 +1547,7 @@ msgstr "Aprende más sobre porqué deberías usar HTTPS"
 #. translators: Documentation explaining HTTPS and why it should be used.
 #: wp-admin/includes/class-wp-site-health.php:1458
 msgid "https://wordpress.org/support/article/why-should-i-use-https/"
-msgstr "https://wordpress.org/support/article/why-should-i-use-https/"
+msgstr "https://es-mx.wordpress.org/support/article/why-should-i-use-https/"
 
 #: wp-admin/includes/class-wp-site-health.php:1493
 msgid "Your site does not use HTTPS"
@@ -2559,7 +2559,7 @@ msgstr "No se puede Instalar"
 #: wp-admin/includes/update.php:300 wp-admin/install.php:239
 #: wp-admin/update-core.php:82 wp-admin/upgrade.php:83 wp-admin/about.php:73
 msgid "https://wordpress.org/support/wordpress-version/version-%s/"
-msgstr "https://wordpress.org/support/wordpress-version/version-%s/"
+msgstr "https://es-mx.wordpress.org/support/wordpress-version/version-%s/"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:728
 #: wp-admin/themes.php:423
@@ -4201,7 +4201,7 @@ msgstr "Repetir"
 #: wp-admin/edit.php:277 wp-admin/edit.php:302 wp-admin/plugin-install.php:110
 #: wp-admin/export.php:58
 msgid "<a href=\"https://wordpress.org/support/\">Support</a>"
-msgstr "<a href=\"https://es.wordpress.org/support/\">Soporte</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/\">Soporte</a>"
 
 #. translators: %s: Number of failed updates.
 #: wp-admin/includes/update.php:826
@@ -5769,7 +5769,7 @@ msgstr "Estado del comentario"
 
 #: wp-admin/edit-form-advanced.php:356
 msgid "You can also embed media from many popular websites including Twitter, YouTube, Flickr and others by pasting the media URL on its own line into the content of your post/page. <a href=\"https://wordpress.org/support/article/embeds/\">Learn more about embeds</a>."
-msgstr "Puedes incrustar medios de muchas webs populares, incluyendo Twitter, YouTube, Flickr y otros, solo con pegar la URL del medio en su propia línea dentro del contenido de tu entrada/página. <a href=\"https://wordpress.org/support/article/embeds/\">Aprende más sobre las incrustaciones</a>."
+msgstr "Puedes incrustar medios de muchas webs populares, incluyendo Twitter, YouTube, Flickr y otros, solo con pegar la URL del medio en su propia línea dentro del contenido de tu entrada/página. <a href=\"https://es-mx.wordpress.org/support/article/embeds/\">Aprende más sobre las incrustaciones</a>."
 
 #: wp-admin/includes/class-custom-background.php:99
 msgid "<a href=\"https://codex.wordpress.org/Appearance_Background_Screen\">Documentation on Custom Background</a>"
@@ -5806,7 +5806,7 @@ msgstr "Cuando publicas una nueva entrada WordPress avisa automáticamente a los
 
 #: wp-admin/includes/options.php:132
 msgid "The <a href=\"https://wordpress.org/support/article/glossary/#character-set\">character encoding</a> of your site (UTF-8 is recommended)"
-msgstr "La <a href=\"https://wordpress.org/support/article/glossary/#character-set\">codificación de caracteres</a> de tu sitio (se recomienda UTF-8)"
+msgstr "La <a href=\"https://es-mx.wordpress.org/support/article/glossary/#character-set\">codificación de caracteres</a> de tu sitio (se recomienda UTF-8)"
 
 #: wp-admin/includes/file.php:2167
 msgid "example: www.wordpress.org"
@@ -6011,7 +6011,7 @@ msgstr ""
 "Este correo electrónico de errores se te envía cuando estás usando una versión de desarrollo de WordPress.\n"
 "\n"
 "Si crees que estos fallos pueden deberse a errores de WordPress, ¿podrías notificarlos?\n"
-" * Abre un hilo en los foros de soporte: https://wordpress.org/support/forum/alphabeta\n"
+" * Abre un hilo en los foros de soporte: https://es-mx.wordpress.org/support/forum/alphabeta\n"
 " * O, si te gusta más, puedes escribir un informe de errores: https://core.trac.wordpress.org/\n"
 "\n"
 "¡Gracias! -- El equipo de WordPress"
@@ -6100,7 +6100,7 @@ msgstr "Enviado el"
 #. translators: Localized Support reference.
 #: wp-admin/includes/class-wp-site-health.php:1351
 msgid "https://wordpress.org/support"
-msgstr "https://es.wordpress.org/support"
+msgstr "https://es-mx.wordpress.org/support"
 
 #: wp-admin/edit-form-advanced.php:295
 msgid "You can enable distraction-free writing mode using the icon to the right. This feature is not available for old browsers or devices with small screens, and requires that the full-height editor be enabled in Screen Options."
@@ -6524,7 +6524,7 @@ msgstr "&larr; Volver al editor"
 
 #: wp-admin/maint/repair.php:147
 msgid "https://wordpress.org/support/forum/how-to-and-troubleshooting"
-msgstr "https://wordpress.org/support/forum/how-to-and-troubleshooting"
+msgstr "https://es-mx.wordpress.org/support/forum/how-to-and-troubleshooting"
 
 #: wp-admin/index.php:76
 msgid "<strong>At A Glance</strong> &mdash; Displays a summary of the content on your site and identifies which theme and version of WordPress you are using."
@@ -6572,7 +6572,7 @@ msgstr "https://make.wordpress.org/"
 
 #: wp-admin/includes/ms.php:1153
 msgid "<a href=\"https://wordpress.org/support/forum/multisite/\">Support Forums</a>"
-msgstr "<a href=\"https://es.wordpress.org/support/forum/multisite/\">Foros de soporte</a>"
+msgstr "<a href=\"https://es-mx.wordpress.org/support/forum/multisite/\">Foros de soporte</a>"
 
 #. translators: %s: https://wordpress.org
 #: wp-admin/admin-footer.php:37

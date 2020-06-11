@@ -37,12 +37,6 @@ define( 'DB_CHARSET', 'utf8mb4' );
 /** The Database Collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
-define( 'WP_MEMORY_LIMIT', '128M' );
-
-define( 'POST_MAX_SIZE', '64M' );
-
-define( 'UPLOAD_MAX_FILESIZE', '64M' );
-
 /**#@+
  * Authentication Unique Keys and Salts.
  *
@@ -52,14 +46,14 @@ define( 'UPLOAD_MAX_FILESIZE', '64M' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '{[}D^y4sVbm-L/]&]M/;6<CQYd8nqCj3GMGfVsu5RPfFz87DBD:rYwr>![XVT]m]' );
-define( 'SECURE_AUTH_KEY',  'OfSQ0`*Bx2Wwy&6f?bvd4(~6Vu,9A<${}hOjhwO3Oq-R!;Cqq[{E>r2MFwDxnRL(' );
-define( 'LOGGED_IN_KEY',    'jflc GD3cW?A~8vM@(E]U(Am`:pj3>%xNSE#Kp fpO{|j{IFExmQ}1@<e{z,Qh^/' );
-define( 'NONCE_KEY',        'a+ @GNS,;@R%r^>APHonDw7HutnO4nqBu2eB972@Z?.8`>DQLAE$1dCVW7|;LPHg' );
-define( 'AUTH_SALT',        't*=t67M6}&<!auzsP 9Z:B#1sIG7Snn{g5AWkq*lq@bShnJu&L0WI9~F<Ro5zupi' );
-define( 'SECURE_AUTH_SALT', 'VV5K#-=*tK~>U15nEt~ndX4xV~5l/~_v(KkeIm^~3a:)[s/J3I|?,er@utl4+T#}' );
-define( 'LOGGED_IN_SALT',   'dHhAM`vG-!DkbHl]&1gDd+82GCP%WS5`LdJwASH{[D5Yt#X^((l}+fUI,LV0fx(>' );
-define( 'NONCE_SALT',       '&8mh~K!)7JH2PC47/PP*VP;u#gV2`/%FrY&rZSN6oLyH$anPZ:YjN*VtubS`}QuA' );
+define( 'AUTH_KEY',         'D=oiD^G]V+X[:7hwH=syRo/V{lQH.n3~.7_kR:C#T(w`E7)$2`l/sy%LftyX:_O9' );
+define( 'SECURE_AUTH_KEY',  'V9H4waU1&h5lSk(Sw^%e>t58#gjl30l=Iyh-D)jDwB.~el&^agr^l/Vo -o<QfP*' );
+define( 'LOGGED_IN_KEY',    '-Df]rq+gy4U`Kl&v3R.Z=lJhr-/d0p~abM`MR.)U+XmD`B#5ea95<V|:e>MBKts&' );
+define( 'NONCE_KEY',        'xMykUqG|0<0,Q|0hm/9vMjh>} KJs?xfQT?:Bk)G4GZZ7LIrra/(>xTxVI5}fkc-' );
+define( 'AUTH_SALT',        '%RIJ/qBVKB!d1eT2o6+*XlUlrLi nSk^S~6^u[c7yr}p@y7XxD~u?&mw*@)t;%gV' );
+define( 'SECURE_AUTH_SALT', 'Y2Um/1(]T hv2JP!|3m?crV! } aY!+NeRtT4qsw2z<CQ9k|0qWX1*^*vHa.(<Nr' );
+define( 'LOGGED_IN_SALT',   'nc@A=RMaiPCBQgvbSxn3f,e~NJF? /!%<<g+f-?_w=8a67#Yf9qk]4K(d:o=,by2' );
+define( 'NONCE_SALT',       'msL}&$.@#idy9F/EOOY*I,byG-yLw=d(h|.<|&T4$ARl+8.(8OTmsyG#c2/t&:+|' );
 
 /**#@-*/
 
