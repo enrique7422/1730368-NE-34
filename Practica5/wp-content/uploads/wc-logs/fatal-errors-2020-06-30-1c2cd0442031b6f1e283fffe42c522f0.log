@@ -1,0 +1,6 @@
+2020-06-30T03:46:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xamp\htdocs\NE\Practica5\wp-includes\class-wp-http-curl.php on line 337
+
+2020-06-30T03:52:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xamp\htdocs\NE\Practica5\wp-includes\wp-db.php on line 2024
+
+2020-06-30T03:57:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xamp\htdocs\NE\Practica5\wp-includes\wp-db.php on line 2024
+
