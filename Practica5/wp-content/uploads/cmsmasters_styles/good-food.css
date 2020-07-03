@@ -30,7 +30,7 @@
 	.widget_custom_posts_tabs_entries .cmsmasters_tabs .cmsmasters_tab.tab_comments li, 
 	.widget_custom_posts_tabs_entries .cmsmasters_tabs .cmsmasters_tab.tab_comments li a, 
 	.cmsmasters_print_button {
-		font-family:'Montserrat', Tahoma, Geneva, Kalimati, sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:18px;
 		line-height:28px;
 		font-weight:normal;
@@ -103,17 +103,17 @@
 	.subpage_nav > strong,
 	.subpage_nav > span,
 	.subpage_nav > a {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:18px;
 		line-height:28px;
 		font-weight:normal;
 		font-style:normal;
-		text-transform:none;
+		text-transform:lowercase;
 		text-decoration:none;
 	}
 	
 	a:hover {
-		text-decoration:none;
+		text-decoration:underline;
 	}
 	
 	.about_author_cont a {
@@ -130,7 +130,7 @@
 	.header_top .meta_wrap, 
 	.header_top .meta_wrap a, 
 	.cmsmasters_dynamic_cart .count	{
-		font-family:'Karla', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:15px;
 		line-height:26px;
 		font-weight:bold;
@@ -278,7 +278,7 @@
 	h2 a, 
 	.one_first .sidebar_layout_11 .widget .widgettitle, 
 	.cmsmasters_sitemap_wrap .cmsmasters_sitemap > li > a {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Oswald', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:32px;
 		line-height:42px;
 		font-weight:normal;
@@ -509,7 +509,7 @@
 	.cmsmasters_archive_type .cmsmasters_archive_item_type, 
 	.cmsmasters_archive_type .cmsmasters_archive_item_info, 
 	.cmsmasters_archive_type .cmsmasters_archive_item_info a {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Oswald', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:16px;
 		line-height:22px;
 		font-weight:normal;
@@ -595,7 +595,7 @@
 	.cmsmasters_heading_wrap.cmsmasters_heading_shaped .cmsmasters_heading, 
 	.widget_nav_menu ul li a, 
 	.widget_custom_posts_tabs_entries .cmsmasters_tabs .cmsmasters_tabs_list_item a	{
-		font-family:'Karla', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Oswald', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:15px;
 		line-height:18px;
 		font-weight:normal;
@@ -642,7 +642,7 @@
 	input[type=submit], 
 	input[type=button], 
 	button {
-		font-family:'Karla', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:16px;
 		line-height:50px;
 		font-weight:normal;
@@ -707,7 +707,7 @@
 	.cmsmasters_slider_post .cmsmasters_slider_post_date, 
 	.cmsmasters_slider_post .cmsmasters_slider_post_cont_info, 
 	.cmsmasters_slider_post .cmsmasters_slider_post_cont_info a {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:14px;
 		line-height:28px;
 		font-weight:normal;
@@ -719,7 +719,7 @@
 	.gform_wrapper .gfield_description, 
 	.gform_wrapper .gsection_description, 
 	.gform_wrapper .instruction {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif !important;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif !important;
 		font-size:14px !important;
 		line-height:28px !important;
 	}
@@ -756,7 +756,7 @@
 	textarea,
 	select,
 	option {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:15px;
 		line-height:28px;
 		font-weight:normal;
@@ -773,7 +773,7 @@
 
 	/* Start Blockquote Font */
 	blockquote {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:18px;
 		line-height:28px;
 		font-weight:normal;
@@ -781,7 +781,7 @@
 	}
 	
 	q {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-weight:normal;
 		font-style:italic;
 	}
@@ -835,7 +835,7 @@
 	 div.wp-block .wp-block-freeform.mce-content-body ul > li,
 	 div.wp-block .wp-block-freeform.mce-content-body ol,
 	 div.wp-block .wp-block-freeform.mce-content-body ol > li {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Oswald', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:16px;
 		line-height:22px;
 		font-weight:normal;
@@ -882,7 +882,7 @@
 	 .wp-block-freeform,
 	 .wp-block-freeform p,
 	 .wp-block-freeform.mce-content-body {
-		font-family:'Montserrat', Tahoma, Geneva, Kalimati, sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:18px;
 		line-height:28px;
 		font-weight:normal;
@@ -899,12 +899,12 @@
 	/* Start Link Font */
 	.editor-styles-wrapper a,
 	.editor-styles-wrapper .wp-block-file .wp-block-file__textlink .editor-rich-text__tinymce {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:18px;
 		line-height:28px;
 		font-weight:normal;
 		font-style:normal;
-		text-transform:none;
+		text-transform:lowercase;
 		text-decoration:none;
 	}
 	/* Finish Link Font */
@@ -939,7 +939,7 @@
 	 .wp-block-cover-image h2, 
 	 .wp-block-cover-image .wp-block-cover-text, 
 	 .wp-block-cover-image .wp-block-cover-image-text {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Oswald', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:32px;
 		line-height:42px;
 		font-weight:normal;
@@ -987,7 +987,7 @@
 	 .wp-block-heading h5.editor-rich-text__tinymce,
 	.editor-styles-wrapper h5,
 	.editor-styles-wrapper .wp-block-freeform.block-library-rich-text__tinymce h5 {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Oswald', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:16px;
 		line-height:22px;
 		font-weight:normal;
@@ -1003,7 +1003,7 @@
 	 .wp-block-heading h6.editor-rich-text__tinymce,
 	.editor-styles-wrapper h6,
 	.editor-styles-wrapper .wp-block-freeform.block-library-rich-text__tinymce h6 {
-		font-family:'Karla', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Oswald', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:15px;
 		line-height:18px;
 		font-weight:normal;
@@ -1017,7 +1017,7 @@
 	/* Start Button Font */
 	 .wp-block-button .wp-block-button__link,
 	 .wp-block-file .wp-block-file__button {
-		font-family:'Karla', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:16px;
 		line-height:50px;
 		font-weight:normal;
@@ -1031,7 +1031,7 @@
 	 small,
 	 .wp-block-latest-posts .wp-block-latest-posts__post-date,
 	 .wp-block-latest-comments .wp-block-latest-comments__comment-date {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:14px;
 		line-height:28px;
 		font-weight:normal;
@@ -1044,7 +1044,7 @@
 	/* Start Text Fields Font */
 	.editor-styles-wrapper select,
 	.editor-styles-wrapper option {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:15px;
 		line-height:28px;
 		font-weight:normal;
@@ -1064,7 +1064,7 @@
 	 .wp-block-pullquote,
 	.editor-styles-wrapper .wp-block-freeform blockquote,
 	.editor-styles-wrapper .wp-block-freeform blockquote p {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:18px;
 		line-height:28px;
 		font-weight:normal;
@@ -1083,7 +1083,7 @@
 	}
 	
 	.editor-styles-wrapper q {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-weight:normal;
 		font-style:italic;
 	}
@@ -1100,7 +1100,7 @@
 	.cmsmasters_single_product .product_meta, 
 	.shop_attributes th, 
 	.woocommerce address {
-		font-family:'Montserrat', Tahoma, Geneva, Kalimati, sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:18px;
 		line-height:28px;
 		font-weight:normal;
@@ -1289,7 +1289,7 @@
 	.form-row label, 
 	.woocommerce-order .woocommerce-notice, 
 	.widget_product_tag_cloud a	{
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Oswald', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:16px;
 		line-height:22px;
 		font-weight:normal;
@@ -1343,7 +1343,7 @@
 	.stock, 
 	.cmsmasters_product .cmsmasters_product_add_inner a, 
 	.woocommerce-MyAccount-navigation li > a {
-		font-family:'Karla', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:16px;
 		line-height:50px;
 		font-weight:normal;
@@ -1376,7 +1376,7 @@
 	/* Start Text Fields Font */	
 	.select2-container .select2-selection--single, 
 	.select2-dropdown {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
 		font-size:15px;
 		line-height:28px;
 		font-weight:normal;
@@ -1389,407 +1389,6 @@
 	/* Finish Small Text Font */
 
 /***************** Finish WooCommerce Font Styles ******************/
-
-
-/***************** Start Tribe Events Font Styles ******************/
-
-	/* Start Content Font */
-	.tribe-events-tooltip,
-	.tribe-events-tooltip a,
-	table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-], 
-	table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] a, 
-	.tribe-mini-calendar tbody, 
-	.tribe-mini-calendar tbody a, 
-	.cmsmasters_single_event .cmsmasters_single_event_header_right, 
-	.cmsmasters_single_event .cmsmasters_single_event_header_right a, 
-	.tribe-events-venue .cmsmasters_events_venue_header_right, 
-	.tribe-events-venue .cmsmasters_events_venue_header_right a, 
-	.tribe-events-organizer .cmsmasters_events_organizer_header_right, 
-	.tribe-events-organizer .cmsmasters_events_organizer_header_right a, 
-	.tribe-mini-calendar thead th {
-		font-family:'Montserrat', Tahoma, Geneva, Kalimati, sans-serif;
-		font-size:18px;
-		line-height:28px;
-		font-weight:normal;
-		font-style:normal;
-	}
-	
-	.tribe-events-organizer .cmsmasters_events_organizer_header_right, 
-	.tribe-events-organizer .cmsmasters_events_organizer_header_right a, 
-	.tribe-events-venue .cmsmasters_events_venue_header_right, 
-	.tribe-events-venue .cmsmasters_events_venue_header_right a, 
-	.cmsmasters_single_event .cmsmasters_single_event_header_right, 
-	.cmsmasters_single_event .cmsmasters_single_event_header_right a, 
-	table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-], 
-	table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] a {
-		font-size:16px;
-	}
-	
-	.tribe-events-grid .tribe-week-grid-hours div,
-	.tribe-events-widget-link a, 
-	.tribe-this-week-events-widget .tribe-events-viewmore a {
-		font-size:16px;
-		line-height:22px;
-	}
-	
-	.tribe-events-tooltip .description, 
-	.tribe-events-grid .column.first > span {
-		font-size:14px;
-		line-height:22px;
-	}
-	
-	.tribe-mini-calendar tbody, 
-	.tribe-mini-calendar tbody a {
-		font-size:12px;
-		line-height:20px;
-	}
-	
-	.tribe-mini-calendar thead th {
-		font-size:11px; /* static */
-		line-height:26px; /* static */
-	}
-	
-	.tribe-events-photo .tribe-events-event-meta .tribe-events-event-body {
-		text-transform:capitalize;
-	}
-	
-	.tribe-mini-calendar thead th, 
-	.tribe-events-grid .tribe-week-grid-hours div {
-		text-transform:uppercase;
-	}
-	/* Finish Content Font */
-	
-	
-	/* Start H1 Font */
-	.cmsmasters_event_big_day, 
-	.tribe-events-countdown-widget .tribe-countdown-time {
-		font-family:'Oswald', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
-		font-size:45px;
-		line-height:58px;
-		font-weight:normal;
-		font-style:normal;
-		text-transform:uppercase;
-		text-decoration:none;
-	}
-	
-	.cmsmasters_event_big_day {
-		font-size:78px;
-		line-height:84px;
-	}
-	
-	.tribe-events-countdown-widget .tribe-countdown-time {
-		font-size:36px;
-		line-height:40px;
-	}
-	
-	.one_first .sidebar_layout_11 .tribe-events-countdown-widget .tribe-countdown-time {
-		font-size:40px;
-		line-height:40px;
-	}
-	
-	@media only screen and (min-width: 1440px) {
-		.one_first .sidebar_layout_11 .tribe-events-countdown-widget .tribe-countdown-time {
-			font-size:60px;
-			line-height:60px;
-		}
-	}
-	/* Finish H1 Font */
-	
-	
-	/* Start H2 Font */
-	.cmsmasters_event_day,
-	.tribe-mobile-day .tribe-mobile-day-date {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
-		font-size:32px;
-		line-height:42px;
-		font-weight:normal;
-		font-style:normal;
-		text-transform:none;
-		text-decoration:none;
-	}
-	/* Finish H2 Font */
-	
-	
-	/* Start H3 Font */
-	/* Finish H3 Font */
-	
-	
-	/* Start H4 Font */
-	.one_first .sidebar_layout_11 .tribe-events-adv-list-widget .tribe-events-list-widget-content-wrap .entry-title a,
-	.one_first .sidebar_layout_11 .tribe-events-list-widget .tribe-events-list-widget-content-wrap .entry-title a, 
-	.tribe-events-adv-list-widget .vcalendar .entry-title, 
-	.tribe-events-adv-list-widget .vcalendar .entry-title a, 
-	.tribe-events-venue-widget .vcalendar .entry-title, 
-	.tribe-events-venue-widget .vcalendar .entry-title a, 
-	.tribe-events-related-events-title, 
-	.cmsmasters_single_event .tribe-events-single-event-title, 
-	.tribe-events-photo .tribe-events-list-event-title,
-	.tribe-events-photo .tribe-events-list-event-title a, 
-	.tribe-events-list .tribe-events-event-cost, 
-	.tribe-events-page-title, 
-	.tribe-events-page-title a, 
-	.cmsmasters_event_big_month, 
-	.tribe-events-list-event-title, 
-	.tribe-events-list-event-title a, 
-	.tribe-events-list .cmsmasters_event_day, 
-	.tribe-events-list .tribe-events-list-separator-month,
-	.tribe-events-list .tribe-events-day-time-slot > h5, 
-	.tribe-events-grid .tribe-grid-header, 
-	.tribe-events-grid .tribe-grid-header a, 
-	.tribe-events-grid .tribe-week-event .vevent .entry-title a, 
-	.tribe-events-tooltip .entry-title, 
-	table.tribe-events-calendar thead th, 
-	table.tribe-events-calendar tbody td .tribe-events-month-event-title, 
-	table.tribe-events-calendar tbody td .tribe-events-month-event-title a, 
-	.cmsmasters_single_event_meta .tribe-events-single-section-title, 
-	.tribe-mini-calendar [id*=tribe-mini-calendar-month], 
-	.tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	.tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	.tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_day, 
-	.tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .entry-title, 
-	.tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .entry-title a,
-	.tribe-mini-calendar-list-wrapper .entry-title,
-	.tribe-mini-calendar-list-wrapper .entry-title a, 
-	.tribe-events-countdown-widget .tribe-countdown-text, 
-	.tribe-events-countdown-widget .tribe-countdown-text a, 
-	.tribe-this-week-events-widget .tribe-events-page-title, 
-	.tribe-this-week-events-widget .tribe-this-week-event .entry-title,
-	.tribe-this-week-events-widget .tribe-this-week-event .entry-title a {
-		font-family:'Oswald', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
-		font-size:24px;
-		line-height:30px;
-		font-weight:normal;
-		font-style:normal;
-		text-transform:uppercase;
-		text-decoration:none;
-	}
-	
-		
-	.tribe-events-list .tribe-events-list-event-title, 
-	.tribe-events-list .tribe-events-list-event-title a, 
-	.tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	.tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	.tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_day, 
-	.tribe-events-venue .entry-title {
-		font-size:26px;
-	}
-	
-	.cmsmasters_single_event .tribe-events-single-event-title {
-		font-size:28px;
-		line-height:34px;
-	}
-	
-	.tribe-events-countdown-widget .tribe-countdown-text, 
-	.tribe-events-countdown-widget .tribe-countdown-text a, 
-	.cmsmasters_single_event_meta .tribe-events-single-section-title, 
-	.tribe-events-related-events-title, 
-	.tribe-events-grid .tribe-week-event .vevent .entry-title a, 
-	.tribe-events-grid .tribe-grid-header, 
-	.tribe-events-grid .tribe-grid-header a, 
-	.tribe-events-list .tribe-events-event-cost, 
-	.tribe-events-list-event-title, 
-	.tribe-events-list-event-title a, 
-	.tribe-events-list .cmsmasters_event_day, 
-	.cmsmasters_event_big_month, 
-	.tribe-events-list .tribe-events-day-time-slot > h5, 
-	.tribe-events-list .tribe-events-list-separator-month {
-		font-size:20px;
-	}
-	
-	.tribe-this-week-events-widget .tribe-events-page-title, 
-	table.tribe-events-calendar tbody td .tribe-events-month-event-title, 
-	table.tribe-events-calendar tbody td .tribe-events-month-event-title a, 
-	table.tribe-events-calendar thead th, 
-	.tribe-events-tooltip .entry-title {
-		font-size:18px;
-		line-height:24px;
-	}
-	
-	.tribe-this-week-events-widget .tribe-this-week-event .entry-title,
-	.tribe-this-week-events-widget .tribe-this-week-event .entry-title a, 
-	.widget .vcalendar .entry-title, 
-	.widget .vcalendar .entry-title a, 
-	.tribe-events-adv-list-widget .vcalendar .entry-title, 
-	.tribe-events-adv-list-widget .vcalendar .entry-title a, 	
-	.tribe-events-venue-widget .vcalendar .entry-title, 
-	.tribe-events-venue-widget .vcalendar .entry-title a, 
-	.tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .entry-title, 
-	.tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .entry-title a,
-	.tribe-mini-calendar-list-wrapper .entry-title,
-	.tribe-mini-calendar-list-wrapper .entry-title a {
-		font-size:16px;
-		line-height:22px;
-	}
-	
-	.tribe-mini-calendar [id*=tribe-mini-calendar-month] {
-		font-size:14px;
-		line-height:20px;
-	}
-	
-	.one_first .sidebar_layout_11 .tribe-events-countdown-widget .tribe-countdown-text a {
-		font-size:34px;
-		line-height:40px;
-	}
-	/* Finish H4 Font */
-	
-	
-	/* Start H5 Font */
-	.tribe-events-adv-list-widget .tribe-venue-widget-venue-name a, 
-	.tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	.tribe-events-venue-widget .tribe-venue-widget-venue-name a, 
-	.tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	.tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_month, 
-	.tribe-events-venue .tribe-events-event-meta, 
-	.tribe-events-venue .tribe-events-event-meta a, 
-	.tribe-events-organizer .tribe-events-event-meta, 
-	.tribe-events-organizer .tribe-events-event-meta a, 
-	.cmsmasters_single_event_meta .cmsmasters_event_meta_info_item, 
-	.cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a, 
-	.tribe-events-photo .tribe-events-event-meta, 
-	.cmsmasters-tribe-events-event-cat a, 
-	.tribe-events-list .cmsmasters_event_time, 
-	.tribe-events-list .tribe-events-event-meta .published, 
-	.tribe-events-list .tribe-events-event-meta .published a, 
-	.tribe-events-list .tribe-events-event-meta .tribe-events-address,
-	.tribe-events-list .tribe-events-event-meta,  
-	.tribe-events-list .tribe-events-event-meta a, 
-	.cmsmasters_event_big_week, 
-	.cmsmasters_event_month,
-	.tribe-bar-filters-inner > div label, 
-	.tribe-mobile-day .tribe-events-read-more, 
-	#tribe-events-content > .tribe-events-button, 
-	.tribe-events-tooltip .duration .published, 
-	.cmsmasters_single_event .tribe-events-schedule, 
-	.cmsmasters_single_event .tribe-events-schedule a, 
-	ul.tribe-related-events .tribe-related-event-info .published, 
-	.tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	.tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	.tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	.tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	.widget .vcalendar .cmsmasters_widget_event_info, 
-	.widget .vcalendar .cmsmasters_widget_event_info a, 
-	.tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info, 
-	.tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info a, 
-	.tribe-events-venue-widget .vcalendar .cmsmasters_widget_event_info, 
-	.tribe-events-venue-widget .vcalendar .cmsmasters_widget_event_info a, 
-	.one_first .sidebar_layout_11 .tribe-events-adv-list-widget .tribe-events-list-widget-content-wrap .cmsmasters_widget_event_info,
-	.one_first .sidebar_layout_11 .tribe-events-adv-list-widget .tribe-events-list-widget-content-wrap .cmsmasters_widget_event_info a,
-	.one_first .sidebar_layout_11 .tribe-events-list-widget .tribe-events-list-widget-content-wrap .cmsmasters_widget_event_info,
-	.one_first .sidebar_layout_11 .tribe-events-list-widget .tribe-events-list-widget-content-wrap .cmsmasters_widget_event_info a, 
-	.tribe-this-week-events-widget .tribe-this-week-event .duration, 
-	.tribe-this-week-events-widget .tribe-this-week-event .tribe-venue,
-	.tribe-this-week-events-widget .tribe-this-week-event .tribe-venue a {
-		font-family:'Lora', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
-		font-size:16px;
-		line-height:22px;
-		font-weight:normal;
-		font-style:italic;
-		text-transform:none;
-		text-decoration:none;
-	}
-	
-	.tribe-this-week-events-widget .tribe-this-week-event .duration, 
-	.tribe-this-week-events-widget .tribe-this-week-event .tribe-venue,
-	.tribe-this-week-events-widget .tribe-this-week-event .tribe-venue a,
-	.widget .vcalendar .cmsmasters_widget_event_info, 
-	.widget .vcalendar .cmsmasters_widget_event_info a, 
-	.tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info, 
-	.tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info a, 
-	.tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	.tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	.tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	.tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	.tribe-events-tooltip .duration .published {
-		font-size:14px;
-		line-height:18px;
-	}
-	
-	.tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	.tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	.tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_month {
-		font-size:12px;
-		line-height:24px;
-	}
-	
-	#tribe-events-content > .tribe-events-button {
-		font-size:18px;
-		line-height:26px;
-	}
-	
-	.cmsmasters_event_month {
-		font-size:15px;
-		line-height:24px;
-	}
-	/* Finish H5 Font */
-	
-	
-	/* Start H6 Font */
-	.tribe-this-week-events-widget .tribe-this-week-widget-header-date, 
-	.one_first .sidebar_layout_11 .tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under,
-	.tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under, 
-	.cmsmasters_tribe_featured_tag, 
-	.tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	.tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	table.tribe-events-calendar tbody td .tribe-events-viewmore a, 
-	.cmsmasters_single_event .tribe-events-cost, 
-	.tribe-mobile-day .tribe-events-event-schedule-details, 
-	.tribe-mobile-day .tribe-event-schedule-details {
-		font-family:'Karla', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
-		font-size:15px;
-		line-height:18px;
-		font-weight:normal;
-		font-style:normal;
-		text-transform:uppercase;
-		text-decoration:none;
-	}
-	
-	.tribe-this-week-events-widget .tribe-this-week-widget-header-date, 
-	.tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under {
-		font-size:14px;
-		line-height:20px;
-		text-transform:capitalize;
-	}
-	
-	table.tribe-events-calendar tbody td .tribe-events-viewmore a {
-		font-size:13px;
-		line-height:12px;
-	}
-	
-	.cmsmasters_tribe_featured_tag {
-		font-size:12px;
-		line-height:20px;
-	}
-	
-	.one_first .sidebar_layout_11 .tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under {
-		font-size:20px;
-		line-height:22px;
-		text-transform:capitalize;
-	}
-	/* Finish H6 Font */
-	
-	
-	/* Start Button Font */
-	.tribe-events-grid .tribe-grid-header span,
-	#tribe-bar-views .tribe-bar-views-list li, 
-	#tribe-bar-views .tribe-bar-views-list li a {
-		font-family:'Karla', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
-		font-size:16px;
-		line-height:50px;
-		font-weight:normal;
-		font-style:normal;
-		text-transform:uppercase;
-	}
-	
-	.tribe-events-grid .tribe-grid-header span {
-		line-height:20px;
-	}
-	/* Finish Button Font */
-	
-	
-	/* Start Small Text Font */
-	/* Finish Small Text Font */
-
-/***************** Finish Tribe Events Font Styles ******************/
 
 /**
  * @package 	WordPress
@@ -1812,7 +1411,7 @@
 	select,
 	option, 
 	.cmsmasters_quotes_grid .cmsmasters_quote_content {
-		color:#191860;
+		color:#4734ef;
 	}
 	
 	#wp-calendar th, 
@@ -1887,7 +1486,7 @@
 	.widget_custom_posts_tabs_entries .cmsmasters_tabs .cmsmasters_tab.tab_comments li a:hover, 
 	.cmsmasters_post_default .cmsmasters_post_info_top a .cmsmasters_post_date, 
 	.cmsmasters_mailpoet_form .parsley-errors-list li {
-		color:#2da871;
+		color:#251c7a;
 	}
 	
 	#slide_top:hover, 
@@ -1915,7 +1514,7 @@
 	.cmsmasters_single_slider .cmsmasters_prev_arrow:hover, 
 	.cmsmasters_single_slider .cmsmasters_next_arrow:hover, 
 	.cmsmasters_stats.stats_mode_bars .cmsmasters_stat_wrap .cmsmasters_stat .cmsmasters_stat_inner {
-		background-color:#2da871;
+		background-color:#251c7a;
 	}
 	
 	#slide_top:hover, 
@@ -1927,7 +1526,7 @@
 	.post_nav a:hover + span, 
 	.cmsmasters_single_slider .cmsmasters_prev_arrow:hover, 
 	.cmsmasters_single_slider .cmsmasters_next_arrow:hover {
-		border-color:#2da871;
+		border-color:#251c7a;
 	}
 	/* Finish Primary Color */
 	
@@ -2105,7 +1704,7 @@
 	.cmsmasters_archive_type .cmsmasters_archive_item_info, 
 	.cmsmasters_archive_type .cmsmasters_archive_item_info a, 
 	.cmsmasters_print_button	{
-		color:#2832bf;
+		color:#0c0849;
 	}
 	
 	.headline_inner.align_center .cmsmasters_breadcrumbs .cmsmasters_breadcrumbs_inner,
@@ -2127,7 +1726,7 @@
 	.cmsmasters_pricing_table .pricing_title_wrap .pricing_title, 
 	.cmsmasters_pricing_table .pricing_best .cmsmasters_pricing_item_inner, 
 	.cmsmasters_heading_wrap.cmsmasters_heading_shaped .cmsmasters_heading {
-		background-color:#2832bf;
+		background-color:#0c0849;
 	}
 	
 	table thead th, 
@@ -2135,7 +1734,7 @@
 	.cmsmasters_notice .notice_close:hover, 
 	.cmsmasters_open_post .cmsmasters_post_header, 
 	.cmsmasters_open_project .cmsmasters_project_header {
-		border-color:#2832bf;
+		border-color:#0c0849;
 	}
 		
 	.cmsmasters_single_slider_title, 
@@ -2149,7 +1748,7 @@
 	.profile_details_title, 
 	.profile_features_title, 
 	.profile_contact_info_title {
-		border-top-color:#2832bf;
+		border-top-color:#0c0849;
 	}
 	
 	.cmsmasters_prev_arrow:hover, 
@@ -2157,29 +1756,29 @@
 	.post_nav > span > a:hover + span, 
 	.cmsmasters_wrap_pagination ul li .page-numbers:hover, 
 	.cmsmasters_wrap_pagination ul li .page-numbers.current {
-		color:rgba(40, 50, 191, 0.5);
+		color:rgba(12, 8, 73, 0.5);
 	}
 	
 	.cmsmasters_content_slider .owl-buttons > div > span, 
 	.cmsmasters_alt_navigation .owl-buttons > div > span {
-		background-color:rgba(40, 50, 191, 0.4);
+		background-color:rgba(12, 8, 73, 0.4);
 	}
 	
 	.cmsmasters_slider_project .cmsmasters_slider_project_inner, 
 	.cmsmasters_project_puzzle .project_inner {
-		background-color:rgba(40, 50, 191, 0.65);
+		background-color:rgba(12, 8, 73, 0.65);
 	}
 	
 	.cmsmasters_profile_vertical .cmsmasters_img_rollover .cmsmasters_open_link, 
 	.cmsmasters_profile_horizontal .cmsmasters_img_rollover .cmsmasters_open_link, 
 	.cmsmasters_project_grid .project_outer_image_wrap_cont {
-		background-color:rgba(40, 50, 191, 0.7);
+		background-color:rgba(12, 8, 73, 0.7);
 	}
 	
 	.cmsmasters_header_search_form, 
 	.cmsmasters_content_slider .owl-buttons > div:hover > span, 
 	.cmsmasters_alt_navigation .owl-buttons > div:hover > span {
-		background-color:rgba(40, 50, 191, 0.8);
+		background-color:rgba(12, 8, 73, 0.8);
 	}
 	/* Finish Headings Color */
 	
@@ -2503,12 +2102,12 @@
 	
 	/* Start Custom Rules */
 	::selection {
-		background:#191860;
+		background:#4734ef;
 		color:#ffffff;;
 	}
 	
 	::-moz-selection {
-		background:#191860;
+		background:#4734ef;
 		color:#ffffff;
 	}
 	
@@ -2520,28 +2119,28 @@
 /***************** Start Default Button Color Scheme Rules ******************/
 	
 	.cmsmasters_button.cmsmasters_but_bg_hover {
-		border-color:#2da871;
+		border-color:#251c7a;
 		background-color:#fffef7;
-		color:#2da871;
+		color:#251c7a;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_bg_hover:hover {
-		border-color:#2da871;
-		background-color:#2da871;
+		border-color:#251c7a;
+		background-color:#251c7a;
 		color:#fffef7;
 	}
 	
 	
 	.cmsmasters_button.cmsmasters_but_bd_underline {
-		border-color:#2da871;
+		border-color:#251c7a;
 		background-color:#fffef7;
-		color:#2da871;
+		color:#251c7a;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_bd_underline:hover {
 		border-color:#fffef7;
 		background-color:#fffef7;
-		color:#2da871;
+		color:#251c7a;
 	}
 	
 	
@@ -2552,9 +2151,9 @@
 	.cmsmasters_button.cmsmasters_but_bg_expand_vert, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_hor, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_diag {
-		border-color:#2da871;
+		border-color:#251c7a;
 		background-color:#fffef7;
-		color:#2da871;
+		color:#251c7a;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_bg_slide_left:hover, 
@@ -2564,7 +2163,7 @@
 	.cmsmasters_button.cmsmasters_but_bg_expand_vert:hover, 
 	.cmsmasters_button.cm.sms_but_bg_expand_hor:hover, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_diag:hover {
-		border-color:#2da871;
+		border-color:#251c7a;
 		background-color:#fffef7;
 		color:#fffef7;
 	}
@@ -2576,17 +2175,17 @@
 	.cmsmasters_button.cmsmasters_but_bg_expand_vert:after, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_hor:after, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_diag:after {
-		background-color:#2da871;
+		background-color:#251c7a;
 	}
 	
 	
 	.cmsmasters_button.cmsmasters_but_shadow {
-		background-color:#2da871;
+		background-color:#251c7a;
 		color:#fffef7;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_shadow:hover {
-		background-color:#2da871;
+		background-color:#251c7a;
 		color:#fffef7;
 	}
 	
@@ -2594,14 +2193,14 @@
 	.cmsmasters_button.cmsmasters_but_icon_dark_bg, 
 	.cmsmasters_button.cmsmasters_but_icon_light_bg, 
 	.cmsmasters_button.cmsmasters_but_icon_divider {
-		background-color:#2da871;
+		background-color:#251c7a;
 		color:#fffef7;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_dark_bg:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_light_bg:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_divider:hover {
-		background-color:#2da871;
+		background-color:#251c7a;
 		color:#fffef7;
 	}
 	
@@ -2610,13 +2209,13 @@
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse {
-		border-color:#2da871;
-		background-color:#2da871;
+		border-color:#251c7a;
+		background-color:#251c7a;
 		color:#fffef7;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:before {
-		color:#2da871;
+		color:#251c7a;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:after {
@@ -2624,9 +2223,9 @@
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:hover {
-		border-color:#2da871;
+		border-color:#251c7a;
 		background-color:#fffef7;
-		color:#2da871;
+		color:#251c7a;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:hover:before {
@@ -2634,21 +2233,21 @@
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:hover:after {
-		background-color:#2da871;
+		background-color:#251c7a;
 	}
 	
 	
 	.cmsmasters_button.cmsmasters_but_icon_slide_left, 
 	.cmsmasters_button.cmsmasters_but_icon_slide_right {
-		border-color:#2da871;
+		border-color:#251c7a;
 		background-color:#fffef7;
-		color:#2da871;
+		color:#251c7a;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_slide_left:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_slide_right:hover {
-		border-color:#2da871;
-		background-color:#2da871;
+		border-color:#251c7a;
+		background-color:#251c7a;
 		color:#fffef7;
 	}
 	
@@ -2657,8 +2256,8 @@
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_right, 
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_top, 
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
-		border-color:#2da871;
-		background-color:#2da871;
+		border-color:#251c7a;
+		background-color:#251c7a;
 		color:#fffef7;
 	}
 	
@@ -2666,8 +2265,8 @@
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_right:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_top:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom:hover {
-		border-color:#2da871;
-		background-color:#2da871;
+		border-color:#251c7a;
+		background-color:#251c7a;
 		color:#fffef7;
 	}
 
@@ -3074,7 +2673,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_pricing_table .pricing_best .cmsmasters_pricing_item_inner .cmsmasters_period, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_pricing_table .pricing_best .feature_list a, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_heading_wrap.cmsmasters_heading_shaped .cmsmasters_heading {
-		color:#13133f;
+		color:#242651;
 	}
 	
 	
@@ -3095,20 +2694,20 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_pricing_table .pricing_best .pricing_title_wrap .pricing_title, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_pricing_table .pricing_best .cmsmasters_button, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_print_button	{
-		background-color:#13133f;
+		background-color:#242651;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_tabs.tabs_mode_tour.tabs_pos_right .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab {
-		border-left-color:#13133f;
+		border-left-color:#242651;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_tabs.tabs_mode_tour.tabs_pos_left .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab {
-		border-right-color:#13133f;
+		border-right-color:#242651;
 	}
 	
 	@media only screen and (min-width: 950px) {
 		html .cmsmasters_color_scheme_footer .cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab {
-			border-bottom-color:#13133f;
+			border-bottom-color:#242651;
 		}
 	}
 	/* Finish Main Background Color */
@@ -3387,16 +2986,16 @@
 	
 		.cmsmasters_color_scheme_footer.cmsmasters_row_top_zigzag:before, 
 		.cmsmasters_color_scheme_footer.cmsmasters_row_bot_zigzag:after {
-			background-image: -webkit-linear-gradient(135deg, #13133f 25%, transparent 25%), 
-					-webkit-linear-gradient(45deg, #13133f 25%, transparent 25%);
-			background-image: -moz-linear-gradient(135deg, #13133f 25%, transparent 25%), 
-					-moz-linear-gradient(45deg, #13133f 25%, transparent 25%);
-			background-image: -ms-linear-gradient(135deg, #13133f 25%, transparent 25%), 
-					-ms-linear-gradient(45deg, #13133f 25%, transparent 25%);
-			background-image: -o-linear-gradient(135deg, #13133f 25%, transparent 25%), 
-					-o-linear-gradient(45deg, #13133f 25%, transparent 25%);
-			background-image: linear-gradient(315deg, #13133f 25%, transparent 25%), 
-					linear-gradient(45deg, #13133f 25%, transparent 25%);
+			background-image: -webkit-linear-gradient(135deg, #242651 25%, transparent 25%), 
+					-webkit-linear-gradient(45deg, #242651 25%, transparent 25%);
+			background-image: -moz-linear-gradient(135deg, #242651 25%, transparent 25%), 
+					-moz-linear-gradient(45deg, #242651 25%, transparent 25%);
+			background-image: -ms-linear-gradient(135deg, #242651 25%, transparent 25%), 
+					-ms-linear-gradient(45deg, #242651 25%, transparent 25%);
+			background-image: -o-linear-gradient(135deg, #242651 25%, transparent 25%), 
+					-o-linear-gradient(45deg, #242651 25%, transparent 25%);
+			background-image: linear-gradient(315deg, #242651 25%, transparent 25%), 
+					linear-gradient(45deg, #242651 25%, transparent 25%);
 		}
 		
 	/* Finish Custom Rules */
@@ -3408,26 +3007,26 @@
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_hover {
 		border-color:#ffffff;
-		background-color:#13133f;
+		background-color:#242651;
 		color:#ffffff;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_hover:hover {
 		border-color:#ffffff;
 		background-color:#ffffff;
-		color:#13133f;
+		color:#242651;
 	}
 	
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bd_underline {
 		border-color:#ffffff;
-		background-color:#13133f;
+		background-color:#242651;
 		color:#ffffff;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bd_underline:hover {
-		border-color:#13133f;
-		background-color:#13133f;
+		border-color:#242651;
+		background-color:#242651;
 		color:#ffffff;
 	}
 	
@@ -3440,7 +3039,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_expand_hor, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_expand_diag {
 		border-color:#ffffff;
-		background-color:#13133f;
+		background-color:#242651;
 		color:#ffffff;
 	}
 	
@@ -3452,8 +3051,8 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cm.sms_but_bg_expand_hor:hover, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_expand_diag:hover {
 		border-color:#ffffff;
-		background-color:#13133f;
-		color:#13133f;
+		background-color:#242651;
+		color:#242651;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_slide_left:after, 
@@ -3469,12 +3068,12 @@
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_shadow {
 		background-color:#ffffff;
-		color:#13133f;
+		color:#242651;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_shadow:hover {
 		background-color:#ffffff;
-		color:#13133f;
+		color:#242651;
 	}
 	
 	
@@ -3482,24 +3081,24 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_light_bg, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_divider {
 		background-color:#ffffff;
-		color:#13133f;
+		color:#242651;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_dark_bg:hover, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_light_bg:hover, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_divider:hover {
 		background-color:#ffffff;
-		color:#13133f;
+		color:#242651;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_divider:after {
-		border-right-color:#13133f;
+		border-right-color:#242651;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse {
 		border-color:#ffffff;
 		background-color:#ffffff;
-		color:#13133f;
+		color:#242651;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:before {
@@ -3507,17 +3106,17 @@
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:after {
-		background-color:#13133f;
+		background-color:#242651;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:hover {
 		border-color:#ffffff;
-		background-color:#13133f;
+		background-color:#242651;
 		color:#ffffff;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:hover:before {
-		color:#13133f;
+		color:#242651;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:hover:after {
@@ -3528,7 +3127,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_slide_left, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_slide_right {
 		border-color:#ffffff;
-		background-color:#13133f;
+		background-color:#242651;
 		color:#ffffff;
 	}
 	
@@ -3536,7 +3135,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_slide_right:hover {
 		border-color:#ffffff;
 		background-color:#ffffff;
-		color:#13133f;
+		color:#242651;
 	}
 	
 	
@@ -3546,7 +3145,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
 		border-color:#ffffff;
 		background-color:#ffffff;
-		color:#13133f;
+		color:#242651;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_hover_slide_left:hover, 
@@ -3555,7 +3154,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom:hover {
 		border-color:#ffffff;
 		background-color:#ffffff;
-		color:#13133f;
+		color:#242651;
 	}
 
 /***************** Finish Footer Button Color Scheme Rules ******************/
@@ -6244,7 +5843,7 @@
 	.header_mid .resp_mid_nav_wrap .resp_mid_nav, 
 	.header_mid .resp_mid_nav_wrap .resp_mid_nav:hover, 
 	.header_mid .resp_mid_nav_wrap .resp_mid_nav.active	{
-		color:#2b52ad;
+		color:#8e5472;
 	}
 	/* Finish Header Middle Content Color */
 	
@@ -6362,7 +5961,7 @@
 	.header_bot textarea,
 	.header_bot select,
 	.header_bot option {
-		color:#00bcac;
+		color:#2c3b4b;
 	}
 	/* Finish Header Bottom Content Color */
 	
@@ -6469,7 +6068,7 @@
 	/* Start Navigation Title Link Color */
 	@media only screen and (min-width: 1025px) {
 		ul.navigation > li > a {
-			color:#2c3b4b;
+			color:#0c618e;
 		}
 	}
 	/* Finish Navigation Title Link Color */
@@ -6493,7 +6092,7 @@
 		ul.navigation > li.menu-item.current-menu-item > a .nav_subtitle, 
 		ul.navigation > li.menu-item.current-menu-ancestor > a, 
 		ul.navigation > li.menu-item.current-menu-ancestor > a .nav_subtitle {
-			color:#2c3b4b;
+			color:#151b5e;
 		}
 	}
 	/* Finish Navigation Title Link Current Color */
@@ -6684,7 +6283,7 @@
 	
 	/* Start Header Top Background Color */	
 	.header_top {
-		background-color:#13133f;
+		background-color:#2c3b4b;
 	}
 	/* Finish Header Top Background Color */
 	
@@ -6699,12 +6298,12 @@
 	/* Start Header Top Custom Rules */
 	.header_top ::selection {
 		background:rgba(255,255,255,0.8);
-		color:#13133f;
+		color:#2c3b4b;
 	}
 	
 	.header_top ::-moz-selection {
 		background:rgba(255,255,255,0.8);
-		color:#13133f;
+		color:#2c3b4b;
 	}
 	/* Finish Header Top Custom Rules */
 
@@ -6844,7 +6443,7 @@
 	 .wp-block-quote,
 	.editor-styles-wrapper .wp-block-freeform blockquote,
 	.editor-styles-wrapper .wp-block-freeform blockquote p {
-		color:#191860;
+		color:#4734ef;
 	}
 	
 	
@@ -6876,8 +6475,8 @@
 	 .wp-block-table thead td,
 	 .wp-block-freeform.mce-content-body > table thead th,
 	 .wp-block-freeform.mce-content-body > table thead td {
-		background-color:#2832bf;
-		border-color:#2832bf;
+		background-color:#0c0849;
+		border-color:#0c0849;
 	}
 	
 	 .wp-block-table thead th,
@@ -6905,7 +6504,7 @@
 	 .wp-caption dd,
 	 .wp-block-latest-posts .wp-block-latest-posts__post-date,
 	 .wp-block-latest-comments .wp-block-latest-comments__comment-date {
-		color:#191860;
+		color:#4734ef;
 	}
 	/* Finish Main Content Font Color */
 	
@@ -6914,7 +6513,7 @@
 	.editor-styles-wrapper a,
 	.editor-styles-wrapper .wp-block-freeform.block-library-rich-text__tinymce a,
 	.editor-styles-wrapper .wp-block-file .wp-block-file__textlink .editor-rich-text__tinymce {
-		color:#2da871;
+		color:#251c7a;
 	}
 	/* Finish Primary Color */
 	
@@ -6960,15 +6559,15 @@
 	.editor-styles-wrapper h6,
 	.editor-styles-wrapper h6 a,
 	 .wp-block-pullquote {
-		color:#2832bf;
+		color:#0c0849;
 	}
 	
 	 .wp-block-pullquote.is-style-solid-color {
-		background-color:#2832bf;
+		background-color:#0c0849;
 	}
 	
 	 .wp-block-pullquote {
-		border-color:#2832bf;
+		border-color:#0c0849;
 	}
 	/* Finish Headings Color */
 	
@@ -7006,7 +6605,7 @@
 	 .wp-block-file .wp-block-file__button,
 	 .wp-block-file a.wp-block-file__button {
 		color:#fffef7;
-		background-color:#2da871;
+		background-color:#251c7a;
 	}
 	
 	 .wp-block-button .wp-block-button__link:not(.has-text-color):not(.has-background):hover,
@@ -7023,17 +6622,17 @@
 	}
 	
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background) {
-		color:#2da871;
+		color:#251c7a;
 		background-color:#fffef7;
-		border-color:#2da871;
+		border-color:#251c7a;
 	}
 	
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):hover,
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):focus,
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):active {
 		color:#fffef7;
-		background-color:#2da871;
-		border-color:#2da871;
+		background-color:#251c7a;
+		border-color:#251c7a;
 	}
 	/* Finish Buttons Colors */
 	
@@ -7052,7 +6651,7 @@
 	.select2-drop.select2-drop-above.select2-drop-active, 
 	.cmsmasters_single_product .price, 
 	.cmsmasters_product .price {
-		color:#191860;
+		color:#4734ef;
 	}
 	/* Finish Main Content Font Color */
 	
@@ -7077,7 +6676,7 @@
 	.cmsmasters_single_product .product_meta a:hover, 
 	.woocommerce-checkout-payment .place-order .terms label span:after, 
 	.shop_table .product-subtotal .woocommerce-Price-amount {
-		color:#2da871;
+		color:#251c7a;
 	}
 	
 	.widget_price_filter .ui-slider-range, 
@@ -7087,7 +6686,7 @@
 	.woocommerce-MyAccount-navigation li > a:hover, 
 	.woocommerce-MyAccount-navigation li.is-active > a, 
 	.cmsmasters_product .cmsmasters_product_add_inner .button:hover {
-		background-color:#2da871;
+		background-color:#251c7a;
 	}
 	
 	.select2-container.select2-container-active .select2-choice, 
@@ -7096,7 +6695,7 @@
 	.select2-drop.select2-drop-above.select2-drop-active,
 	.select2-container.select2-container--open .select2-selection--single,
 	.select2-container.select2-container--focus .select2-selection--single {
-		border-color:#2da871;
+		border-color:#251c7a;
 	}
 	/* Finish Primary Color */
 	
@@ -7149,7 +6748,7 @@
 	.shop_table td, 
 	.shop_table.customer_details td, 
 	.shop_table.customer_details th	{
-		color:#2832bf;
+		color:#0c0849;
 	}
 	
 	.woocommerce-store-notice, 
@@ -7164,11 +6763,11 @@
 	.stock, 
 	.widget_shopping_cart .widget_shopping_cart_content .button:hover, 
 	.cmsmasters_dynamic_cart .widget_shopping_cart_content .button:hover {
-		background-color:#2832bf;
+		background-color:#0c0849;
 	}
 	
 	section.products > h2 {
-		border-top-color:#2832bf;
+		border-top-color:#0c0849;
 	}
 	/* Finish Headings Color */
 	
@@ -7423,7 +7022,7 @@
 	html .cmsmasters_color_scheme_footer .woocommerce-store-notice, 
 	html .cmsmasters_color_scheme_footer .woocommerce-store-notice p a, 
 	html .cmsmasters_color_scheme_footer .woocommerce-store-notice p a:hover {
-		color:#13133f;
+		color:#242651;
 	}
 	
 
@@ -7443,7 +7042,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_product .cmsmasters_product_add_inner .button, 
 	html .cmsmasters_color_scheme_footer .woocommerce-EditAccountForm	fieldset, 
 	html .cmsmasters_color_scheme_footer .woocommerce-EditAccountForm	fieldset legend {
-		background-color:#13133f;
+		background-color:#242651;
 	}
 	/* Finish Main Background Color */
 	
@@ -8269,1769 +7868,4 @@
 	/* Finish Borders Color */
 
 /***************** Finish Custom 3 WooCommerce Color Scheme Rules ******************/
-
-
-/***************** Start Default Tribe Events Color Scheme Rules ******************/
-
-	/* Start Main Content Font Color */
-	.tribe-mini-calendar tbody, 
-	.tribe-mini-calendar tbody a {
-		color:#191860;
-	}
-	
-	.tribe-events-list-widget .tribe-event-featured, 
-	.tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event, 
-	.tribe-events-adv-list-widget .tribe-event-featured, 
-	.tribe-events-venue-widget .tribe-event-featured, 
-	.tribe-mini-calendar-list-wrapper .tribe-event-featured, 
-	#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured, 
-	.tribe-events-list .tribe-events-loop .tribe-event-featured, 
-	.tribe-events-list #tribe-events-day.tribe-events-loop .tribe-event-featured, 
-	.type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap, 
-	.type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap:hover {
-		background-color:transparent !important;
-	}
-	/* Finish Main Content Font Color */
-	
-	
-	/* Start Primary Color */
-	.tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a, 
-	.tribe-events-venue-widget .vcalendar .tribe-event-featured .entry-title a, 
-	.tribe-events-organizer .tribe-events-event-meta .organizer-address span:before, 
-	.tribe-events-venue .tribe-events-event-meta .venue-address span:before, 
-	.cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a, 
-	.cmsmasters_single_event .tribe-events-schedule a:hover, 
-	.one_first .sidebar_layout_11 .tribe-events-adv-list-widget .tribe-events-list-widget-content-wrap .entry-title a:hover, 
-	.one_first .sidebar_layout_11 .tribe-events-list-widget .tribe-events-list-widget-content-wrap .entry-title a:hover, 
-	.tribe-events-widget-link a:hover, 
-	.tribe-this-week-events-widget .tribe-events-viewmore a:hover, 
-	.tribe-this-week-events-widget .tribe-this-week-event .entry-title a:hover, 
-	.widget .vcalendar .entry-title a:hover, 
-	.tribe-mini-calendar-list-wrapper .entry-title a:hover, 
-	.cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a:hover, 
-	.tribe-events-single-event-title, 
-	#tribe-events-content > .tribe-events-button:hover, 
-	#tribe-bar-views .tribe-bar-views-list li a:hover, 
-	#tribe-bar-views .tribe-bar-views-list li.tribe-bar-active a, 
-	.tribe-events-sub-nav li a:hover, 
-	#tribe-bar-views .tribe-bar-views-list li:hover,
-	#tribe-bar-views .tribe-bar-views-list li.tribe-bar-active, 
-	table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] a:hover, 
-	.cmsmasters_single_event .cmsmasters_single_event_header_right a:hover, 
-	.tribe-events-venue .cmsmasters_events_venue_header_right a:hover,  
-	.tribe-events-organizer .cmsmasters_events_organizer_header_right a:hover, 
-	.tribe-mini-calendar tbody a:hover, 
-	.tribe-mini-calendar tbody .tribe-events-present, 
-	.tribe-mini-calendar tbody .tribe-events-present a, 
-	.widget .vcalendar [class*=cmsmasters_theme_icon]:before, 
-	.tribe-mini-calendar-list-wrapper [class*=cmsmasters_theme_icon]:before, 
-	.tribe-events-countdown-widget .tribe-countdown-text a:hover, 
-	.tribe-this-week-events-widget .tribe-this-week-event .duration:before, 
-	.tribe-this-week-events-widget .tribe-this-week-event .tribe-venue:before, 
-	.tribe-events-list .tribe-events-list-event-title a:hover {
-		color:#2da871;
-	}
-	
-	.cmsmasters_events_more a, 
-	.datepicker thead tr:first-child th:hover, 
-	.datepicker tfoot tr th:hover, 
-	.tribe-events-notices:before, 
-	.tribe-events-grid .tribe-week-event .vevent .entry-title:hover a,
-	.tribe-events-grid .tribe-week-event:hover .vevent .entry-title a,
-	table.tribe-events-calendar tbody td .type-tribe_events:hover .tribe-events-month-event-title a, 
-	table.tribe-events-calendar tbody td .tribe-events-month-event-title a:hover, 
-	#tribe-bar-views.tribe-bar-views-open .button,
-	table.tribe-events-calendar thead th, 
-	table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-], 
-	.tribe-mini-calendar .tribe-mini-calendar-nav, 
-	.tribe-mini-calendar tbody a:before, 
-	table.tribe-events-calendar tbody td.tribe-events-has-events:before, 
-	.tribe-this-week-events-widget .this-week-today .tribe-this-week-widget-header-date, 
-	.tribe-events-adv-list-widget .tribe-venue-widget-venue, 
-	.tribe-events-venue-widget .tribe-venue-widget-venue, 
-	.cmsmasters_tribe_featured_tag, 
-	.tribe-mini-calendar .tribe-mini-calendar-nav th, 
-	.tribe-mini-calendar .tribe-mini-calendar-nav td {
-		background-color:#2da871;
-	}
-	
-	.tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	.tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	.tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_month, 
-	.tribe-mini-calendar tbody .tribe-events-past a:before, 
-	#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a {
-		background-color:#2da871;
-	}
-	
-	.tribe-mini-calendar .tribe-mini-calendar-nav tr, 
-	#tribe-bar-views.tribe-bar-views-open .button, 
-	.tribe-mini-calendar .tribe-mini-calendar-nav th, 
-	.tribe-mini-calendar .tribe-mini-calendar-nav td {
-		border-color:#2da871;
-	}
-	/* Finish Primary Color */
-	
-	
-	/* Start Highlight Color */
-	.tribe-this-week-events-widget .tribe-this-week-event .duration, 
-	.tribe-this-week-events-widget .tribe-this-week-event .tribe-venue,
-	.tribe-this-week-events-widget .tribe-this-week-event .tribe-venue a:hover,
-	.tribe-this-week-events-widget .tribe-this-week-widget-header-date, 
-	.tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	.widget .vcalendar .cmsmasters_widget_event_info a:hover, 
-	.tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info a:hover, 
-	.widget .vcalendar .cmsmasters_widget_event_info, 
-	.tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info, 
-	.tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	.tribe-events-venue-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	.one_first .sidebar_layout_11 .tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under,
-	.tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under
-	.tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a:hover, 
-	.tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a:hover, 
-	.tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	.tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	.tribe-events-organizer .tribe-events-event-meta .organizer-address a:hover, 
-	.tribe-events-organizer .tribe-events-event-meta .organizer-address, 
-	.tribe-events-venue .tribe-events-event-meta .venue-address a:hover, 
-	.tribe-events-venue .tribe-events-event-meta .venue-address, 
-	.cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a:hover, 
-	.cmsmasters_single_event_meta .cmsmasters_event_meta_info_item_title, 
-	.cmsmasters_single_event .tribe-events-schedule, 
-	table.tribe-events-calendar tbody td.tribe-events-othermonth div[id*=tribe-events-daynum-], 
-	.tribe-events-tooltip .duration .published, 
-	.cmsmasters-tribe-events-event-cat a, 
-	.tribe-events-list .cmsmasters_event_time, 
-	.cmsmasters_event_big_week, 
-	.tribe-mini-calendar tbody .tribe-events-othermonth, 
-	.tribe-mini-calendar tbody .tribe-events-othermonth a,
-	.cmsmasters_event_day, 
-	table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-], 
-	table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] a, 
-	.tribe-events-organizer .cmsmasters_events_organizer_header_right a:before,
-	.cmsmasters_single_event .cmsmasters_single_event_header_right a:before, 
-	.tribe-events-venue .cmsmasters_events_venue_header_right a:before, 
-	.event_hover, 
-	.tribe-events-list .tribe-events-event-meta, 
-	.tribe-events-list .tribe-events-event-meta a:hover {
-		color:#8e9092;
-	}
-	/* Finish Highlight Color */
-	
-	
-	/* Start Headings Color */
-	.tribe-this-week-events-widget .tribe-this-week-event .tribe-venue a,
-	.widget .vcalendar .cmsmasters_widget_event_info a, 
-	.tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info a, 
-	.tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	.tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	.tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	.tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	.tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_day, 
-	.tribe-events-organizer .tribe-events-event-meta .organizer-address a, 
-	.tribe-events-organizer .entry-title, 
-	.tribe-events-venue .tribe-events-event-meta .venue-address a, 
-	.tribe-events-venue .entry-title, 
-	.cmsmasters_single_event .tribe-events-schedule a, 
-	.cmsmasters_single_event .tribe-events-single-event-title, 
-	table.tribe-events-calendar tbody td.tribe-events-past .tribe-events-month-event-title a,
-	.cmsmasters-tribe-events-event-cat a:hover, 
-	.tribe-events-list .cmsmasters_event_day, 
-	.tribe-events-list .tribe-events-event-meta a, 
-	.tribe-events-widget-link a, 
-	.tribe-this-week-events-widget .tribe-events-viewmore a, 
-	.tribe-this-week-events-widget .tribe-this-week-event .entry-title a, 
-	.widget .vcalendar .entry-title a, 
-	.tribe-mini-calendar-list-wrapper .entry-title a, 
-	.tribe-events-grid .tribe-week-event .vevent .entry-title a, 
-	table.tribe-events-calendar tbody td .tribe-events-month-event-title a, 
-	.cmsmasters_single_event .cmsmasters_single_event_header_right a, 
-	.tribe-bar-filters-inner > div label, 
-	#tribe-bar-views .tribe-bar-views-list li, 
-	#tribe-bar-views .tribe-bar-views-list li a, 
-	.tribe-events-sub-nav li a, 
-	.tribe-events-notices, 
-	#tribe-events-content > .tribe-events-button, 
-	.tribe-events-list .tribe-events-list-separator-month, 
-	.tribe-events-grid .tribe-week-event:hover .vevent .entry-title a, 
-	.cmsmasters_single_event_meta dt, 
-	.tribe-events-venue .cmsmasters_events_venue_header_right a, 
-	.tribe-events-organizer .cmsmasters_events_organizer_header_right a, 
-	.tribe-mini-calendar thead a:hover,  
-	.tribe-events-countdown-widget .tribe-countdown-time, 
-	.tribe-events-countdown-widget .tribe-countdown-text, 
-	.tribe-events-countdown-widget .tribe-countdown-text a, 
-	.tribe-mobile-day .tribe-events-event-schedule-details, 
-	.tribe-mobile-day .tribe-event-schedule-details, 
-	.tribe-this-week-events-widget .tribe-events-page-title, 
-	.tribe-events-list .tribe-events-list-event-title a, 
-	.cmsmasters_event_big_month, 
-	table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] {
-		color:#2832bf;
-	}
-	
-	.cmsmasters_events_more a:hover, 
-	#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a:hover, 
-	table.tribe-events-calendar thead th, 
-	.tribe-events-grid .tribe-grid-header, 
-	.tribe-events-grid .tribe-grid-header .tribe-week-today, 
-	.tribe-events-grid .tribe-grid-header a:hover, 
-	.tribe-mini-calendar thead, 
-	.tribe-mini-calendar tbody .tribe-mini-calendar-today a:before, 
-	table.tribe-events-calendar tbody td.tribe-events-has-events.mobile-active:before {
-		background-color:#2832bf;
-	}
-	
-	table.tribe-events-calendar thead tr {
-		border-color:#2832bf;
-	}
-	
-	.cmsmasters_single_event_meta .tribe-events-single-section-title, 
-	.tribe-events-related-events-title {
-		border-top-color:#2832bf;
-	}
-	/* Finish Headings Color */
-	
-	
-	/* Start Main Background Color */
-	#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a, 
-	.tribe-events-adv-list-widget .tribe-venue-widget-venue-name a:hover, 
-	.tribe-events-adv-list-widget .tribe-venue-widget-venue-name:before, 
-	.tribe-events-adv-list-widget .tribe-venue-widget-venue-name a, 	
-	.tribe-events-venue-widget .tribe-venue-widget-venue-name a:hover, 
-	.tribe-events-venue-widget .tribe-venue-widget-venue-name:before, 
-	.tribe-events-venue-widget .tribe-venue-widget-venue-name a, 
-	.tribe-events-grid .tribe-week-event .vevent .entry-title:hover a,
-	.tribe-events-grid .tribe-week-event:hover .vevent .entry-title a,
-	table.tribe-events-calendar tbody td .type-tribe_events:hover .tribe-events-month-event-title a, 
-	table.tribe-events-calendar tbody td .tribe-events-month-event-title a:hover, 
-	.cmsmasters_event_month, 
-	#tribe-bar-views.tribe-bar-views-open .button,
-	.event_bg {
-		color:#fffef7;
-	}
-	
-	.tribe-events-tooltip:after {
-		border-top-color:#fffef7;
-	}
-	
-	.recurringinfo .recurring-info-tooltip:after {
-		border-bottom-color:#fffef7;
-	}
-	
-	.tribe-events-grid .tribe-events-day-column-0 .tribe-events-tooltip:after, 
-	.tribe-events-grid .tribe-events-day-column-6 .tribe-events-tooltip:after, 
-	.tribe-events-grid .tribe-events-day-column-5 .tribe-events-tooltip:after {
-		border-left-color:#fffef7;
-	}
-	
-	.tribe-events-grid .tribe-week-event .tribe-events-tooltip:after {
-		border-right-color:#fffef7;
-	}
-	
-	.tribe-events-grid .tribe-week-event .vevent .entry-title a,
-	.tribe-mini-calendar, 
-	.cmsmasters_event_day, 
-	table.tribe-events-calendar, 
-	.tribe-events-tooltip, 
-	.tribe-events-grid .tribe-scroller, 
-	.tribe-events-grid .tribe-week-grid-hours, 
-	.tribe-events-sub-nav li span:not([class]) {
-		background-color:#fffef7;
-	}
-	/* Finish Main Background Color */
-	
-	
-	/* Start Alternate Background Color */
-	.cmsmasters_events_more a, 
-	.cmsmasters_events_more a:hover, 
-	.tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	.tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	.tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_month, 
-	table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-], 
-	table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-] a, 
-	.cmsmasters_tribe_featured_tag, 
-	.tribe-events-grid .tribe-grid-header a:hover span, 
-	.tribe-events-grid .tribe-grid-header span, 
-	.tribe-mini-calendar thead, 
-	.tribe-mini-calendar thead a, 
-	.tribe-this-week-events-widget .this-week-today .tribe-this-week-widget-header-date {
-		color:#ffffff;
-	}
-	/* Finish Alternate Background Color */
-	
-	
-	/* Start Borders Color */
-	.tribe-events-photo .tribe-events-event-meta, 
-	.tribe-events-notices,
-	.tribe-mini-calendar tbody td,
-	.tribe-events-grid .tribe-week-event .vevent .entry-title,
-	.cmsmasters_event_day, 
-	.tribe-events-photo .tribe-events-list-photo-description, 
-	table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-], 
-	.cmsmasters_single_event_meta .cmsmasters_event_meta_info_item, 
-	.tribe-events-tooltip, 
-	.tribe-events-sub-nav li span:not([class]), 
-	table.tribe-events-calendar tbody td .tribe_events, 
-	.tribe-events-list .tribe-events-list-separator-month, 
-	.tribe-events-list .tribe-events-day-time-slot > h5, 
-	.tribe-events-list .type-tribe_events, 
-	.tribe-events-grid .tribe-scroller, 
-	.tribe-events-grid .tribe-week-grid-block div, 
-	.tribe-events-grid .tribe-grid-allday, 
-	.tribe-events-grid .tribe-grid-content-wrap .column, 
-	.tribe-events-grid .tribe-week-grid-hours div, 
-	.widget .vcalendar .type-tribe_events, 
-	.tribe-mini-calendar-list-wrapper .type-tribe_events, 
-	.tribe-mobile-day .tribe-events-mobile, 
-	table.tribe-events-calendar tbody tr, 
-	#page table.tribe-events-calendar tbody td {
-		border-color:#dcd9c9;
-	}
-	
-	table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] {
-		background-color:rgba(220, 217, 201, 0.1);
-	}
-	
-	.tribe-mini-calendar .tribe-events-othermonth, 
-	.tribe-events-list .tribe-events-list-separator-month, 
-	.tribe-events-list .tribe-events-day-time-slot > h5,
-	.tribe-events-notices {
-		background-color:rgba(220, 217, 201, 0.2);
-	}
-	
-	.tribe-events-tooltip:before {
-		border-top-color:#dcd9c9;
-	}
-	
-	.tribe-events-grid .tribe-week-event .tribe-events-tooltip:before {
-		border-right-color:#dcd9c9;
-	}
-	
-	.tribe-events-grid .tribe-events-day-column-0 .tribe-events-tooltip:before, 
-	.tribe-events-grid .tribe-events-day-column-6 .tribe-events-tooltip:before, 
-	.tribe-events-grid .tribe-events-day-column-5 .tribe-events-tooltip:before {
-		border-left-color:#dcd9c9;
-	}
-	
-	.single-tribe_events .sidebar .widget_custom_posts_tabs_entries .cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item, 
-	.cmsmasters_single_event_meta .tribe-events-single-section-title, 
-	.tribe-events-related-events-title, 
-	.recurringinfo .recurring-info-tooltip:before {
-		border-bottom-color:#dcd9c9;
-	}
-	/* Finish Borders Color */
-
-/***************** Finish Default Tribe Events Color Scheme Rules ******************/
-
-
-/***************** Start Footer Tribe Events Color Scheme Rules ******************/
-
-	/* Start Main Content Font Color */
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar tbody, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar tbody a {
-		color:rgba(255,255,255,0.7);
-	}
-	
-	html .cmsmasters_color_scheme_footer .tribe-events-list-widget .tribe-event-featured, 
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event, 
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .tribe-event-featured, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue-widget .tribe-event-featured, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar-list-wrapper .tribe-event-featured, 
-	html .cmsmasters_color_scheme_footer #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .tribe-events-loop .tribe-event-featured, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list #tribe-events-day.tribe-events-loop .tribe-event-featured, 
-	html .cmsmasters_color_scheme_footer .type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap, 
-	html .cmsmasters_color_scheme_footer .type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap:hover {
-		background-color:transparent !important;
-	}
-	/* Finish Main Content Font Color */
-	
-	
-	/* Start Primary Color */
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue-widget .vcalendar .tribe-event-featured .entry-title a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-organizer .tribe-events-event-meta .organizer-address span:before, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue .tribe-events-event-meta .venue-address span:before, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event .tribe-events-schedule a:hover, 
-	html .cmsmasters_color_scheme_footer .one_first .sidebar_layout_11 .tribe-events-adv-list-widget .tribe-events-list-widget-content-wrap .entry-title a:hover, 
-	html .cmsmasters_color_scheme_footer .one_first .sidebar_layout_11 .tribe-events-list-widget .tribe-events-list-widget-content-wrap .entry-title a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-events-widget-link a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .tribe-events-viewmore a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .tribe-this-week-event .entry-title a:hover, 
-	html .cmsmasters_color_scheme_footer .widget .vcalendar .entry-title a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar-list-wrapper .entry-title a:hover, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-events-single-event-title, 
-	html .cmsmasters_color_scheme_footer #tribe-events-content > .tribe-events-button:hover, 
-	html .cmsmasters_color_scheme_footer #tribe-bar-views .tribe-bar-views-list li a:hover, 
-	html .cmsmasters_color_scheme_footer #tribe-bar-views .tribe-bar-views-list li.tribe-bar-active a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-sub-nav li a:hover, 
-	html .cmsmasters_color_scheme_footer #tribe-bar-views .tribe-bar-views-list li:hover,
-	html .cmsmasters_color_scheme_footer #tribe-bar-views .tribe-bar-views-list li.tribe-bar-active, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] a:hover, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event .cmsmasters_single_event_header_right a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue .cmsmasters_events_venue_header_right a:hover,  
-	html .cmsmasters_color_scheme_footer .tribe-events-organizer .cmsmasters_events_organizer_header_right a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar tbody a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar tbody .tribe-events-present, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar tbody .tribe-events-present a, 
-	html .cmsmasters_color_scheme_footer .widget .vcalendar [class*=cmsmasters_theme_icon]:before, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar-list-wrapper [class*=cmsmasters_theme_icon]:before, 
-	html .cmsmasters_color_scheme_footer .tribe-events-countdown-widget .tribe-countdown-text a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .tribe-this-week-event .duration:before, 
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue:before, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .tribe-events-list-event-title a:hover {
-		color:#ffffff;
-	}
-	
-	html .cmsmasters_color_scheme_footer .cmsmasters_events_more a, 
-	html .cmsmasters_color_scheme_footer .datepicker thead tr:first-child th:hover, 
-	html .cmsmasters_color_scheme_footer .datepicker tfoot tr th:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-events-notices:before, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-week-event .vevent .entry-title:hover a,
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-week-event:hover .vevent .entry-title a,
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td .type-tribe_events:hover .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td .tribe-events-month-event-title a:hover, 
-	html .cmsmasters_color_scheme_footer #tribe-bar-views.tribe-bar-views-open .button,
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar thead th, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar .tribe-mini-calendar-nav, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar tbody a:before, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td.tribe-events-has-events:before, 
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .this-week-today .tribe-this-week-widget-header-date, 
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .tribe-venue-widget-venue, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue-widget .tribe-venue-widget-venue, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_tribe_featured_tag, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar .tribe-mini-calendar-nav th, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar .tribe-mini-calendar-nav td {
-		background-color:#ffffff;
-	}
-	
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_footer .tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar tbody .tribe-events-past a:before, 
-	html .cmsmasters_color_scheme_footer #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a {
-		background-color:#ffffff;
-	}
-	
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar .tribe-mini-calendar-nav tr, 
-	html .cmsmasters_color_scheme_footer #tribe-bar-views.tribe-bar-views-open .button, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar .tribe-mini-calendar-nav th, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar .tribe-mini-calendar-nav td {
-		border-color:#ffffff;
-	}
-	/* Finish Primary Color */
-	
-	
-	/* Start Highlight Color */
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .tribe-this-week-event .duration, 
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue,
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue a:hover,
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .tribe-this-week-widget-header-date, 
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	html .cmsmasters_color_scheme_footer .widget .vcalendar .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_footer .widget .vcalendar .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	html .cmsmasters_color_scheme_footer .one_first .sidebar_layout_11 .tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under,
-	html .cmsmasters_color_scheme_footer .tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under
-	html .cmsmasters_color_scheme_footer .tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_footer .tribe-events-organizer .tribe-events-event-meta .organizer-address a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-events-organizer .tribe-events-event-meta .organizer-address, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue .tribe-events-event-meta .venue-address a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue .tribe-events-event-meta .venue-address, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a:hover, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item_title, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event .tribe-events-schedule, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td.tribe-events-othermonth div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_footer .tribe-events-tooltip .duration .published, 
-	html .cmsmasters_color_scheme_footer .cmsmasters-tribe-events-event-cat a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .cmsmasters_event_time, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_event_big_week, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar tbody .tribe-events-othermonth, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar tbody .tribe-events-othermonth a,
-	html .cmsmasters_color_scheme_footer .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-organizer .cmsmasters_events_organizer_header_right a:before,
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event .cmsmasters_single_event_header_right a:before, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue .cmsmasters_events_venue_header_right a:before, 
-	html .cmsmasters_color_scheme_footer .event_hover, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .tribe-events-event-meta, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .tribe-events-event-meta a:hover {
-		color:rgba(255,255,255,0.7);
-	}
-	/* Finish Highlight Color */
-	
-	
-	/* Start Headings Color */
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue a,
-	html .cmsmasters_color_scheme_footer .widget .vcalendar .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_footer .tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_footer .tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_footer .tribe-events-organizer .tribe-events-event-meta .organizer-address a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-organizer .entry-title, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue .tribe-events-event-meta .venue-address a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue .entry-title, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event .tribe-events-schedule a, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event .tribe-events-single-event-title, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td.tribe-events-past .tribe-events-month-event-title a,
-	html .cmsmasters_color_scheme_footer .cmsmasters-tribe-events-event-cat a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .tribe-events-event-meta a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-widget-link a, 
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .tribe-events-viewmore a, 
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .tribe-this-week-event .entry-title a, 
-	html .cmsmasters_color_scheme_footer .widget .vcalendar .entry-title a, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar-list-wrapper .entry-title a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-week-event .vevent .entry-title a, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event .cmsmasters_single_event_header_right a, 
-	html .cmsmasters_color_scheme_footer .tribe-bar-filters-inner > div label, 
-	html .cmsmasters_color_scheme_footer #tribe-bar-views .tribe-bar-views-list li, 
-	html .cmsmasters_color_scheme_footer #tribe-bar-views .tribe-bar-views-list li a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-sub-nav li a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-notices, 
-	html .cmsmasters_color_scheme_footer #tribe-events-content > .tribe-events-button, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .tribe-events-list-separator-month, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-week-event:hover .vevent .entry-title a, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event_meta dt, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue .cmsmasters_events_venue_header_right a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-organizer .cmsmasters_events_organizer_header_right a, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar thead a:hover,  
-	html .cmsmasters_color_scheme_footer .tribe-events-countdown-widget .tribe-countdown-time, 
-	html .cmsmasters_color_scheme_footer .tribe-events-countdown-widget .tribe-countdown-text, 
-	html .cmsmasters_color_scheme_footer .tribe-events-countdown-widget .tribe-countdown-text a, 
-	html .cmsmasters_color_scheme_footer .tribe-mobile-day .tribe-events-event-schedule-details, 
-	html .cmsmasters_color_scheme_footer .tribe-mobile-day .tribe-event-schedule-details, 
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .tribe-events-page-title, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .tribe-events-list-event-title a, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_event_big_month, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] {
-		color:#ffffff;
-	}
-	
-	html .cmsmasters_color_scheme_footer .cmsmasters_events_more a:hover, 
-	html .cmsmasters_color_scheme_footer #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a:hover, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar thead th, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-grid-header, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-grid-header .tribe-week-today, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-grid-header a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar thead, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar tbody .tribe-mini-calendar-today a:before, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td.tribe-events-has-events.mobile-active:before {
-		background-color:#ffffff;
-	}
-	
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar thead tr {
-		border-color:#ffffff;
-	}
-	
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event_meta .tribe-events-single-section-title, 
-	html .cmsmasters_color_scheme_footer .tribe-events-related-events-title {
-		border-top-color:#ffffff;
-	}
-	/* Finish Headings Color */
-	
-	
-	/* Start Main Background Color */
-	html .cmsmasters_color_scheme_footer #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .tribe-venue-widget-venue-name a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .tribe-venue-widget-venue-name:before, 
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .tribe-venue-widget-venue-name a, 	
-	html .cmsmasters_color_scheme_footer .tribe-events-venue-widget .tribe-venue-widget-venue-name a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue-widget .tribe-venue-widget-venue-name:before, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue-widget .tribe-venue-widget-venue-name a, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-week-event .vevent .entry-title:hover a,
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-week-event:hover .vevent .entry-title a,
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td .type-tribe_events:hover .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td .tribe-events-month-event-title a:hover, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_footer #tribe-bar-views.tribe-bar-views-open .button,
-	html .cmsmasters_color_scheme_footer .event_bg {
-		color:#13133f;
-	}
-	
-	html .cmsmasters_color_scheme_footer .tribe-events-tooltip:after {
-		border-top-color:#13133f;
-	}
-	
-	html .cmsmasters_color_scheme_footer .recurringinfo .recurring-info-tooltip:after {
-		border-bottom-color:#13133f;
-	}
-	
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-events-day-column-0 .tribe-events-tooltip:after, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-events-day-column-6 .tribe-events-tooltip:after, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-events-day-column-5 .tribe-events-tooltip:after {
-		border-left-color:#13133f;
-	}
-	
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-week-event .tribe-events-tooltip:after {
-		border-right-color:#13133f;
-	}
-	
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-week-event .vevent .entry-title a,
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar, 
-	html .cmsmasters_color_scheme_footer .tribe-events-tooltip, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-scroller, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-week-grid-hours, 
-	html .cmsmasters_color_scheme_footer .tribe-events-sub-nav li span:not([class]) {
-		background-color:#13133f;
-	}
-	/* Finish Main Background Color */
-	
-	
-	/* Start Alternate Background Color */
-	html .cmsmasters_color_scheme_footer .cmsmasters_events_more a, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_events_more a:hover, 
-	html .cmsmasters_color_scheme_footer .tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_footer .tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_footer .tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-] a, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_tribe_featured_tag, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-grid-header a:hover span, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-grid-header span, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar thead, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar thead a, 
-	html .cmsmasters_color_scheme_footer .tribe-this-week-events-widget .this-week-today .tribe-this-week-widget-header-date {
-		color:#1e2732;
-	}
-	/* Finish Alternate Background Color */
-	
-	
-	/* Start Borders Color */
-	html .cmsmasters_color_scheme_footer .tribe-events-photo .tribe-events-event-meta, 
-	html .cmsmasters_color_scheme_footer .tribe-events-notices,
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar tbody td,
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-week-event .vevent .entry-title,
-	html .cmsmasters_color_scheme_footer .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_footer .tribe-events-photo .tribe-events-list-photo-description, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item, 
-	html .cmsmasters_color_scheme_footer .tribe-events-tooltip, 
-	html .cmsmasters_color_scheme_footer .tribe-events-sub-nav li span:not([class]), 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td .tribe_events, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .tribe-events-list-separator-month, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .tribe-events-day-time-slot > h5, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .type-tribe_events, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-scroller, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-week-grid-block div, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-grid-allday, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-grid-content-wrap .column, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-week-grid-hours div, 
-	html .cmsmasters_color_scheme_footer .widget .vcalendar .type-tribe_events, 
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar-list-wrapper .type-tribe_events, 
-	html .cmsmasters_color_scheme_footer .tribe-mobile-day .tribe-events-mobile, 
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody tr, 
-	html .cmsmasters_color_scheme_footer #page table.tribe-events-calendar tbody td {
-		border-color:rgba(255,255,255,0);
-	}
-	
-	html .cmsmasters_color_scheme_footer table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] {
-		background-color:rgba(255, 255, 255, 0.1);
-	}
-	
-	html .cmsmasters_color_scheme_footer .tribe-mini-calendar .tribe-events-othermonth, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .tribe-events-list-separator-month, 
-	html .cmsmasters_color_scheme_footer .tribe-events-list .tribe-events-day-time-slot > h5,
-	html .cmsmasters_color_scheme_footer .tribe-events-notices {
-		background-color:rgba(255, 255, 255, 0.2);
-	}
-	
-	html .cmsmasters_color_scheme_footer .tribe-events-tooltip:before {
-		border-top-color:rgba(255,255,255,0);
-	}
-	
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-week-event .tribe-events-tooltip:before {
-		border-right-color:rgba(255,255,255,0);
-	}
-	
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-events-day-column-0 .tribe-events-tooltip:before, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-events-day-column-6 .tribe-events-tooltip:before, 
-	html .cmsmasters_color_scheme_footer .tribe-events-grid .tribe-events-day-column-5 .tribe-events-tooltip:before {
-		border-left-color:rgba(255,255,255,0);
-	}
-	
-	html .cmsmasters_color_scheme_footer .single-tribe_events .sidebar .widget_custom_posts_tabs_entries .cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item, 
-	html .cmsmasters_color_scheme_footer .cmsmasters_single_event_meta .tribe-events-single-section-title, 
-	html .cmsmasters_color_scheme_footer .tribe-events-related-events-title, 
-	html .cmsmasters_color_scheme_footer .recurringinfo .recurring-info-tooltip:before {
-		border-bottom-color:rgba(255,255,255,0);
-	}
-	/* Finish Borders Color */
-
-/***************** Finish Footer Tribe Events Color Scheme Rules ******************/
-
-
-/***************** Start Custom 1 Tribe Events Color Scheme Rules ******************/
-
-	/* Start Main Content Font Color */
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar tbody, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar tbody a {
-		color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_first .tribe-events-list-widget .tribe-event-featured, 
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event, 
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .tribe-event-featured, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue-widget .tribe-event-featured, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar-list-wrapper .tribe-event-featured, 
-	html .cmsmasters_color_scheme_first #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .tribe-events-loop .tribe-event-featured, 
-	html .cmsmasters_color_scheme_first .tribe-events-list #tribe-events-day.tribe-events-loop .tribe-event-featured, 
-	html .cmsmasters_color_scheme_first .type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap, 
-	html .cmsmasters_color_scheme_first .type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap:hover {
-		background-color:transparent !important;
-	}
-	/* Finish Main Content Font Color */
-	
-	
-	/* Start Primary Color */
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue-widget .vcalendar .tribe-event-featured .entry-title a, 
-	html .cmsmasters_color_scheme_first .tribe-events-organizer .tribe-events-event-meta .organizer-address span:before, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue .tribe-events-event-meta .venue-address span:before, 
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a, 
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event .tribe-events-schedule a:hover, 
-	html .cmsmasters_color_scheme_first .one_first .sidebar_layout_11 .tribe-events-adv-list-widget .tribe-events-list-widget-content-wrap .entry-title a:hover, 
-	html .cmsmasters_color_scheme_first .one_first .sidebar_layout_11 .tribe-events-list-widget .tribe-events-list-widget-content-wrap .entry-title a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-events-widget-link a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .tribe-events-viewmore a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .tribe-this-week-event .entry-title a:hover, 
-	html .cmsmasters_color_scheme_first .widget .vcalendar .entry-title a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar-list-wrapper .entry-title a:hover, 
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-events-single-event-title, 
-	html .cmsmasters_color_scheme_first #tribe-events-content > .tribe-events-button:hover, 
-	html .cmsmasters_color_scheme_first #tribe-bar-views .tribe-bar-views-list li a:hover, 
-	html .cmsmasters_color_scheme_first #tribe-bar-views .tribe-bar-views-list li.tribe-bar-active a, 
-	html .cmsmasters_color_scheme_first .tribe-events-sub-nav li a:hover, 
-	html .cmsmasters_color_scheme_first #tribe-bar-views .tribe-bar-views-list li:hover,
-	html .cmsmasters_color_scheme_first #tribe-bar-views .tribe-bar-views-list li.tribe-bar-active, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] a:hover, 
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event .cmsmasters_single_event_header_right a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue .cmsmasters_events_venue_header_right a:hover,  
-	html .cmsmasters_color_scheme_first .tribe-events-organizer .cmsmasters_events_organizer_header_right a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar tbody a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar tbody .tribe-events-present, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar tbody .tribe-events-present a, 
-	html .cmsmasters_color_scheme_first .widget .vcalendar [class*=cmsmasters_theme_icon]:before, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar-list-wrapper [class*=cmsmasters_theme_icon]:before, 
-	html .cmsmasters_color_scheme_first .tribe-events-countdown-widget .tribe-countdown-text a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .tribe-this-week-event .duration:before, 
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue:before, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .tribe-events-list-event-title a:hover {
-		color:#ffffff;
-	}
-	
-	html .cmsmasters_color_scheme_first .cmsmasters_events_more a, 
-	html .cmsmasters_color_scheme_first .datepicker thead tr:first-child th:hover, 
-	html .cmsmasters_color_scheme_first .datepicker tfoot tr th:hover, 
-	html .cmsmasters_color_scheme_first .tribe-events-notices:before, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-week-event .vevent .entry-title:hover a,
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-week-event:hover .vevent .entry-title a,
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td .type-tribe_events:hover .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td .tribe-events-month-event-title a:hover, 
-	html .cmsmasters_color_scheme_first #tribe-bar-views.tribe-bar-views-open .button,
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar thead th, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar .tribe-mini-calendar-nav, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar tbody a:before, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td.tribe-events-has-events:before, 
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .this-week-today .tribe-this-week-widget-header-date, 
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .tribe-venue-widget-venue, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue-widget .tribe-venue-widget-venue, 
-	html .cmsmasters_color_scheme_first .cmsmasters_tribe_featured_tag, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar .tribe-mini-calendar-nav th, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar .tribe-mini-calendar-nav td {
-		background-color:#ffffff;
-	}
-	
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_first .tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar tbody .tribe-events-past a:before, 
-	html .cmsmasters_color_scheme_first #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a {
-		background-color:#ffffff;
-	}
-	
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar .tribe-mini-calendar-nav tr, 
-	html .cmsmasters_color_scheme_first #tribe-bar-views.tribe-bar-views-open .button, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar .tribe-mini-calendar-nav th, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar .tribe-mini-calendar-nav td {
-		border-color:#ffffff;
-	}
-	/* Finish Primary Color */
-	
-	
-	/* Start Highlight Color */
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .tribe-this-week-event .duration, 
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue,
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue a:hover,
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .tribe-this-week-widget-header-date, 
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	html .cmsmasters_color_scheme_first .widget .vcalendar .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_first .widget .vcalendar .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	html .cmsmasters_color_scheme_first .one_first .sidebar_layout_11 .tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under,
-	html .cmsmasters_color_scheme_first .tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under
-	html .cmsmasters_color_scheme_first .tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_first .tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_first .tribe-events-organizer .tribe-events-event-meta .organizer-address a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-events-organizer .tribe-events-event-meta .organizer-address, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue .tribe-events-event-meta .venue-address a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue .tribe-events-event-meta .venue-address, 
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a:hover, 
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item_title, 
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event .tribe-events-schedule, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td.tribe-events-othermonth div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_first .tribe-events-tooltip .duration .published, 
-	html .cmsmasters_color_scheme_first .cmsmasters-tribe-events-event-cat a, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .cmsmasters_event_time, 
-	html .cmsmasters_color_scheme_first .cmsmasters_event_big_week, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar tbody .tribe-events-othermonth, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar tbody .tribe-events-othermonth a,
-	html .cmsmasters_color_scheme_first .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] a, 
-	html .cmsmasters_color_scheme_first .tribe-events-organizer .cmsmasters_events_organizer_header_right a:before,
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event .cmsmasters_single_event_header_right a:before, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue .cmsmasters_events_venue_header_right a:before, 
-	html .cmsmasters_color_scheme_first .event_hover, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .tribe-events-event-meta, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .tribe-events-event-meta a:hover {
-		color:#fffef7;
-	}
-	/* Finish Highlight Color */
-	
-	
-	/* Start Headings Color */
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue a,
-	html .cmsmasters_color_scheme_first .widget .vcalendar .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_first .tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_first .tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_first .tribe-events-organizer .tribe-events-event-meta .organizer-address a, 
-	html .cmsmasters_color_scheme_first .tribe-events-organizer .entry-title, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue .tribe-events-event-meta .venue-address a, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue .entry-title, 
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event .tribe-events-schedule a, 
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event .tribe-events-single-event-title, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td.tribe-events-past .tribe-events-month-event-title a,
-	html .cmsmasters_color_scheme_first .cmsmasters-tribe-events-event-cat a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .tribe-events-event-meta a, 
-	html .cmsmasters_color_scheme_first .tribe-events-widget-link a, 
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .tribe-events-viewmore a, 
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .tribe-this-week-event .entry-title a, 
-	html .cmsmasters_color_scheme_first .widget .vcalendar .entry-title a, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar-list-wrapper .entry-title a, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-week-event .vevent .entry-title a, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event .cmsmasters_single_event_header_right a, 
-	html .cmsmasters_color_scheme_first .tribe-bar-filters-inner > div label, 
-	html .cmsmasters_color_scheme_first #tribe-bar-views .tribe-bar-views-list li, 
-	html .cmsmasters_color_scheme_first #tribe-bar-views .tribe-bar-views-list li a, 
-	html .cmsmasters_color_scheme_first .tribe-events-sub-nav li a, 
-	html .cmsmasters_color_scheme_first .tribe-events-notices, 
-	html .cmsmasters_color_scheme_first #tribe-events-content > .tribe-events-button, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .tribe-events-list-separator-month, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-week-event:hover .vevent .entry-title a, 
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event_meta dt, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue .cmsmasters_events_venue_header_right a, 
-	html .cmsmasters_color_scheme_first .tribe-events-organizer .cmsmasters_events_organizer_header_right a, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar thead a:hover,  
-	html .cmsmasters_color_scheme_first .tribe-events-countdown-widget .tribe-countdown-time, 
-	html .cmsmasters_color_scheme_first .tribe-events-countdown-widget .tribe-countdown-text, 
-	html .cmsmasters_color_scheme_first .tribe-events-countdown-widget .tribe-countdown-text a, 
-	html .cmsmasters_color_scheme_first .tribe-mobile-day .tribe-events-event-schedule-details, 
-	html .cmsmasters_color_scheme_first .tribe-mobile-day .tribe-event-schedule-details, 
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .tribe-events-page-title, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .tribe-events-list-event-title a, 
-	html .cmsmasters_color_scheme_first .cmsmasters_event_big_month, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] {
-		color:#2c3b4b;
-	}
-	
-	html .cmsmasters_color_scheme_first .cmsmasters_events_more a:hover, 
-	html .cmsmasters_color_scheme_first #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a:hover, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar thead th, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-grid-header, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-grid-header .tribe-week-today, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-grid-header a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar thead, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar tbody .tribe-mini-calendar-today a:before, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td.tribe-events-has-events.mobile-active:before {
-		background-color:#2c3b4b;
-	}
-	
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar thead tr {
-		border-color:#2c3b4b;
-	}
-	
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event_meta .tribe-events-single-section-title, 
-	html .cmsmasters_color_scheme_first .tribe-events-related-events-title {
-		border-top-color:#2c3b4b;
-	}
-	/* Finish Headings Color */
-	
-	
-	/* Start Main Background Color */
-	html .cmsmasters_color_scheme_first #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .tribe-venue-widget-venue-name a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .tribe-venue-widget-venue-name:before, 
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .tribe-venue-widget-venue-name a, 	
-	html .cmsmasters_color_scheme_first .tribe-events-venue-widget .tribe-venue-widget-venue-name a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue-widget .tribe-venue-widget-venue-name:before, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue-widget .tribe-venue-widget-venue-name a, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-week-event .vevent .entry-title:hover a,
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-week-event:hover .vevent .entry-title a,
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td .type-tribe_events:hover .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td .tribe-events-month-event-title a:hover, 
-	html .cmsmasters_color_scheme_first .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_first #tribe-bar-views.tribe-bar-views-open .button,
-	html .cmsmasters_color_scheme_first .event_bg {
-		color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_first .tribe-events-tooltip:after {
-		border-top-color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_first .recurringinfo .recurring-info-tooltip:after {
-		border-bottom-color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-events-day-column-0 .tribe-events-tooltip:after, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-events-day-column-6 .tribe-events-tooltip:after, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-events-day-column-5 .tribe-events-tooltip:after {
-		border-left-color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-week-event .tribe-events-tooltip:after {
-		border-right-color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-week-event .vevent .entry-title a,
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar, 
-	html .cmsmasters_color_scheme_first .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar, 
-	html .cmsmasters_color_scheme_first .tribe-events-tooltip, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-scroller, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-week-grid-hours, 
-	html .cmsmasters_color_scheme_first .tribe-events-sub-nav li span:not([class]) {
-		background-color:#fffef7;
-	}
-	/* Finish Main Background Color */
-	
-	
-	/* Start Alternate Background Color */
-	html .cmsmasters_color_scheme_first .cmsmasters_events_more a, 
-	html .cmsmasters_color_scheme_first .cmsmasters_events_more a:hover, 
-	html .cmsmasters_color_scheme_first .tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_first .tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_first .tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-] a, 
-	html .cmsmasters_color_scheme_first .cmsmasters_tribe_featured_tag, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-grid-header a:hover span, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-grid-header span, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar thead, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar thead a, 
-	html .cmsmasters_color_scheme_first .tribe-this-week-events-widget .this-week-today .tribe-this-week-widget-header-date {
-		color:#ff7055;
-	}
-	/* Finish Alternate Background Color */
-	
-	
-	/* Start Borders Color */
-	html .cmsmasters_color_scheme_first .tribe-events-photo .tribe-events-event-meta, 
-	html .cmsmasters_color_scheme_first .tribe-events-notices,
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar tbody td,
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-week-event .vevent .entry-title,
-	html .cmsmasters_color_scheme_first .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_first .tribe-events-photo .tribe-events-list-photo-description, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item, 
-	html .cmsmasters_color_scheme_first .tribe-events-tooltip, 
-	html .cmsmasters_color_scheme_first .tribe-events-sub-nav li span:not([class]), 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td .tribe_events, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .tribe-events-list-separator-month, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .tribe-events-day-time-slot > h5, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .type-tribe_events, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-scroller, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-week-grid-block div, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-grid-allday, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-grid-content-wrap .column, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-week-grid-hours div, 
-	html .cmsmasters_color_scheme_first .widget .vcalendar .type-tribe_events, 
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar-list-wrapper .type-tribe_events, 
-	html .cmsmasters_color_scheme_first .tribe-mobile-day .tribe-events-mobile, 
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody tr, 
-	html .cmsmasters_color_scheme_first #page table.tribe-events-calendar tbody td {
-		border-color:#ffffff;
-	}
-	
-	html .cmsmasters_color_scheme_first table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] {
-		background-color:rgba(255, 255, 255, 0.1);
-	}
-	
-	html .cmsmasters_color_scheme_first .tribe-mini-calendar .tribe-events-othermonth, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .tribe-events-list-separator-month, 
-	html .cmsmasters_color_scheme_first .tribe-events-list .tribe-events-day-time-slot > h5,
-	html .cmsmasters_color_scheme_first .tribe-events-notices {
-		background-color:rgba(255, 255, 255, 0.2);
-	}
-	
-	html .cmsmasters_color_scheme_first .tribe-events-tooltip:before {
-		border-top-color:#ffffff;
-	}
-	
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-week-event .tribe-events-tooltip:before {
-		border-right-color:#ffffff;
-	}
-	
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-events-day-column-0 .tribe-events-tooltip:before, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-events-day-column-6 .tribe-events-tooltip:before, 
-	html .cmsmasters_color_scheme_first .tribe-events-grid .tribe-events-day-column-5 .tribe-events-tooltip:before {
-		border-left-color:#ffffff;
-	}
-	
-	html .cmsmasters_color_scheme_first .single-tribe_events .sidebar .widget_custom_posts_tabs_entries .cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item, 
-	html .cmsmasters_color_scheme_first .cmsmasters_single_event_meta .tribe-events-single-section-title, 
-	html .cmsmasters_color_scheme_first .tribe-events-related-events-title, 
-	html .cmsmasters_color_scheme_first .recurringinfo .recurring-info-tooltip:before {
-		border-bottom-color:#ffffff;
-	}
-	/* Finish Borders Color */
-
-/***************** Finish Custom 1 Tribe Events Color Scheme Rules ******************/
-
-
-/***************** Start Custom 2 Tribe Events Color Scheme Rules ******************/
-
-	/* Start Main Content Font Color */
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar tbody, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar tbody a {
-		color:#2c3b4b;
-	}
-	
-	html .cmsmasters_color_scheme_second .tribe-events-list-widget .tribe-event-featured, 
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event, 
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .tribe-event-featured, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue-widget .tribe-event-featured, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar-list-wrapper .tribe-event-featured, 
-	html .cmsmasters_color_scheme_second #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .tribe-events-loop .tribe-event-featured, 
-	html .cmsmasters_color_scheme_second .tribe-events-list #tribe-events-day.tribe-events-loop .tribe-event-featured, 
-	html .cmsmasters_color_scheme_second .type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap, 
-	html .cmsmasters_color_scheme_second .type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap:hover {
-		background-color:transparent !important;
-	}
-	/* Finish Main Content Font Color */
-	
-	
-	/* Start Primary Color */
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue-widget .vcalendar .tribe-event-featured .entry-title a, 
-	html .cmsmasters_color_scheme_second .tribe-events-organizer .tribe-events-event-meta .organizer-address span:before, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue .tribe-events-event-meta .venue-address span:before, 
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a, 
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event .tribe-events-schedule a:hover, 
-	html .cmsmasters_color_scheme_second .one_first .sidebar_layout_11 .tribe-events-adv-list-widget .tribe-events-list-widget-content-wrap .entry-title a:hover, 
-	html .cmsmasters_color_scheme_second .one_first .sidebar_layout_11 .tribe-events-list-widget .tribe-events-list-widget-content-wrap .entry-title a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-events-widget-link a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .tribe-events-viewmore a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .tribe-this-week-event .entry-title a:hover, 
-	html .cmsmasters_color_scheme_second .widget .vcalendar .entry-title a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar-list-wrapper .entry-title a:hover, 
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-events-single-event-title, 
-	html .cmsmasters_color_scheme_second #tribe-events-content > .tribe-events-button:hover, 
-	html .cmsmasters_color_scheme_second #tribe-bar-views .tribe-bar-views-list li a:hover, 
-	html .cmsmasters_color_scheme_second #tribe-bar-views .tribe-bar-views-list li.tribe-bar-active a, 
-	html .cmsmasters_color_scheme_second .tribe-events-sub-nav li a:hover, 
-	html .cmsmasters_color_scheme_second #tribe-bar-views .tribe-bar-views-list li:hover,
-	html .cmsmasters_color_scheme_second #tribe-bar-views .tribe-bar-views-list li.tribe-bar-active, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] a:hover, 
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event .cmsmasters_single_event_header_right a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue .cmsmasters_events_venue_header_right a:hover,  
-	html .cmsmasters_color_scheme_second .tribe-events-organizer .cmsmasters_events_organizer_header_right a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar tbody a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar tbody .tribe-events-present, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar tbody .tribe-events-present a, 
-	html .cmsmasters_color_scheme_second .widget .vcalendar [class*=cmsmasters_theme_icon]:before, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar-list-wrapper [class*=cmsmasters_theme_icon]:before, 
-	html .cmsmasters_color_scheme_second .tribe-events-countdown-widget .tribe-countdown-text a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .tribe-this-week-event .duration:before, 
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue:before, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .tribe-events-list-event-title a:hover {
-		color:#ff7055;
-	}
-	
-	html .cmsmasters_color_scheme_second .cmsmasters_events_more a, 
-	html .cmsmasters_color_scheme_second .datepicker thead tr:first-child th:hover, 
-	html .cmsmasters_color_scheme_second .datepicker tfoot tr th:hover, 
-	html .cmsmasters_color_scheme_second .tribe-events-notices:before, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-week-event .vevent .entry-title:hover a,
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-week-event:hover .vevent .entry-title a,
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td .type-tribe_events:hover .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td .tribe-events-month-event-title a:hover, 
-	html .cmsmasters_color_scheme_second #tribe-bar-views.tribe-bar-views-open .button,
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar thead th, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar .tribe-mini-calendar-nav, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar tbody a:before, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td.tribe-events-has-events:before, 
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .this-week-today .tribe-this-week-widget-header-date, 
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .tribe-venue-widget-venue, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue-widget .tribe-venue-widget-venue, 
-	html .cmsmasters_color_scheme_second .cmsmasters_tribe_featured_tag, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar .tribe-mini-calendar-nav th, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar .tribe-mini-calendar-nav td {
-		background-color:#ff7055;
-	}
-	
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_second .tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar tbody .tribe-events-past a:before, 
-	html .cmsmasters_color_scheme_second #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a {
-		background-color:#ff7055;
-	}
-	
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar .tribe-mini-calendar-nav tr, 
-	html .cmsmasters_color_scheme_second #tribe-bar-views.tribe-bar-views-open .button, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar .tribe-mini-calendar-nav th, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar .tribe-mini-calendar-nav td {
-		border-color:#ff7055;
-	}
-	/* Finish Primary Color */
-	
-	
-	/* Start Highlight Color */
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .tribe-this-week-event .duration, 
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue,
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue a:hover,
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .tribe-this-week-widget-header-date, 
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	html .cmsmasters_color_scheme_second .widget .vcalendar .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_second .widget .vcalendar .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	html .cmsmasters_color_scheme_second .one_first .sidebar_layout_11 .tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under,
-	html .cmsmasters_color_scheme_second .tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under
-	html .cmsmasters_color_scheme_second .tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_second .tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_second .tribe-events-organizer .tribe-events-event-meta .organizer-address a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-events-organizer .tribe-events-event-meta .organizer-address, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue .tribe-events-event-meta .venue-address a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue .tribe-events-event-meta .venue-address, 
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a:hover, 
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item_title, 
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event .tribe-events-schedule, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td.tribe-events-othermonth div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_second .tribe-events-tooltip .duration .published, 
-	html .cmsmasters_color_scheme_second .cmsmasters-tribe-events-event-cat a, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .cmsmasters_event_time, 
-	html .cmsmasters_color_scheme_second .cmsmasters_event_big_week, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar tbody .tribe-events-othermonth, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar tbody .tribe-events-othermonth a,
-	html .cmsmasters_color_scheme_second .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] a, 
-	html .cmsmasters_color_scheme_second .tribe-events-organizer .cmsmasters_events_organizer_header_right a:before,
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event .cmsmasters_single_event_header_right a:before, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue .cmsmasters_events_venue_header_right a:before, 
-	html .cmsmasters_color_scheme_second .event_hover, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .tribe-events-event-meta, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .tribe-events-event-meta a:hover {
-		color:#8e9092;
-	}
-	/* Finish Highlight Color */
-	
-	
-	/* Start Headings Color */
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue a,
-	html .cmsmasters_color_scheme_second .widget .vcalendar .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_second .tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_second .tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_second .tribe-events-organizer .tribe-events-event-meta .organizer-address a, 
-	html .cmsmasters_color_scheme_second .tribe-events-organizer .entry-title, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue .tribe-events-event-meta .venue-address a, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue .entry-title, 
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event .tribe-events-schedule a, 
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event .tribe-events-single-event-title, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td.tribe-events-past .tribe-events-month-event-title a,
-	html .cmsmasters_color_scheme_second .cmsmasters-tribe-events-event-cat a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .tribe-events-event-meta a, 
-	html .cmsmasters_color_scheme_second .tribe-events-widget-link a, 
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .tribe-events-viewmore a, 
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .tribe-this-week-event .entry-title a, 
-	html .cmsmasters_color_scheme_second .widget .vcalendar .entry-title a, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar-list-wrapper .entry-title a, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-week-event .vevent .entry-title a, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event .cmsmasters_single_event_header_right a, 
-	html .cmsmasters_color_scheme_second .tribe-bar-filters-inner > div label, 
-	html .cmsmasters_color_scheme_second #tribe-bar-views .tribe-bar-views-list li, 
-	html .cmsmasters_color_scheme_second #tribe-bar-views .tribe-bar-views-list li a, 
-	html .cmsmasters_color_scheme_second .tribe-events-sub-nav li a, 
-	html .cmsmasters_color_scheme_second .tribe-events-notices, 
-	html .cmsmasters_color_scheme_second #tribe-events-content > .tribe-events-button, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .tribe-events-list-separator-month, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-week-event:hover .vevent .entry-title a, 
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event_meta dt, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue .cmsmasters_events_venue_header_right a, 
-	html .cmsmasters_color_scheme_second .tribe-events-organizer .cmsmasters_events_organizer_header_right a, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar thead a:hover,  
-	html .cmsmasters_color_scheme_second .tribe-events-countdown-widget .tribe-countdown-time, 
-	html .cmsmasters_color_scheme_second .tribe-events-countdown-widget .tribe-countdown-text, 
-	html .cmsmasters_color_scheme_second .tribe-events-countdown-widget .tribe-countdown-text a, 
-	html .cmsmasters_color_scheme_second .tribe-mobile-day .tribe-events-event-schedule-details, 
-	html .cmsmasters_color_scheme_second .tribe-mobile-day .tribe-event-schedule-details, 
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .tribe-events-page-title, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .tribe-events-list-event-title a, 
-	html .cmsmasters_color_scheme_second .cmsmasters_event_big_month, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] {
-		color:#2c3b4b;
-	}
-	
-	html .cmsmasters_color_scheme_second .cmsmasters_events_more a:hover, 
-	html .cmsmasters_color_scheme_second #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a:hover, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar thead th, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-grid-header, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-grid-header .tribe-week-today, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-grid-header a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar thead, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar tbody .tribe-mini-calendar-today a:before, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td.tribe-events-has-events.mobile-active:before {
-		background-color:#2c3b4b;
-	}
-	
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar thead tr {
-		border-color:#2c3b4b;
-	}
-	
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event_meta .tribe-events-single-section-title, 
-	html .cmsmasters_color_scheme_second .tribe-events-related-events-title {
-		border-top-color:#2c3b4b;
-	}
-	/* Finish Headings Color */
-	
-	
-	/* Start Main Background Color */
-	html .cmsmasters_color_scheme_second #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .tribe-venue-widget-venue-name a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .tribe-venue-widget-venue-name:before, 
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .tribe-venue-widget-venue-name a, 	
-	html .cmsmasters_color_scheme_second .tribe-events-venue-widget .tribe-venue-widget-venue-name a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue-widget .tribe-venue-widget-venue-name:before, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue-widget .tribe-venue-widget-venue-name a, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-week-event .vevent .entry-title:hover a,
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-week-event:hover .vevent .entry-title a,
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td .type-tribe_events:hover .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td .tribe-events-month-event-title a:hover, 
-	html .cmsmasters_color_scheme_second .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_second #tribe-bar-views.tribe-bar-views-open .button,
-	html .cmsmasters_color_scheme_second .event_bg {
-		color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_second .tribe-events-tooltip:after {
-		border-top-color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_second .recurringinfo .recurring-info-tooltip:after {
-		border-bottom-color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-events-day-column-0 .tribe-events-tooltip:after, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-events-day-column-6 .tribe-events-tooltip:after, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-events-day-column-5 .tribe-events-tooltip:after {
-		border-left-color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-week-event .tribe-events-tooltip:after {
-		border-right-color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-week-event .vevent .entry-title a,
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar, 
-	html .cmsmasters_color_scheme_second .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar, 
-	html .cmsmasters_color_scheme_second .tribe-events-tooltip, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-scroller, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-week-grid-hours, 
-	html .cmsmasters_color_scheme_second .tribe-events-sub-nav li span:not([class]) {
-		background-color:#fffef7;
-	}
-	/* Finish Main Background Color */
-	
-	
-	/* Start Alternate Background Color */
-	html .cmsmasters_color_scheme_second .cmsmasters_events_more a, 
-	html .cmsmasters_color_scheme_second .cmsmasters_events_more a:hover, 
-	html .cmsmasters_color_scheme_second .tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_second .tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_second .tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-] a, 
-	html .cmsmasters_color_scheme_second .cmsmasters_tribe_featured_tag, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-grid-header a:hover span, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-grid-header span, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar thead, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar thead a, 
-	html .cmsmasters_color_scheme_second .tribe-this-week-events-widget .this-week-today .tribe-this-week-widget-header-date {
-		color:#ffffff;
-	}
-	/* Finish Alternate Background Color */
-	
-	
-	/* Start Borders Color */
-	html .cmsmasters_color_scheme_second .tribe-events-photo .tribe-events-event-meta, 
-	html .cmsmasters_color_scheme_second .tribe-events-notices,
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar tbody td,
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-week-event .vevent .entry-title,
-	html .cmsmasters_color_scheme_second .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_second .tribe-events-photo .tribe-events-list-photo-description, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item, 
-	html .cmsmasters_color_scheme_second .tribe-events-tooltip, 
-	html .cmsmasters_color_scheme_second .tribe-events-sub-nav li span:not([class]), 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td .tribe_events, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .tribe-events-list-separator-month, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .tribe-events-day-time-slot > h5, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .type-tribe_events, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-scroller, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-week-grid-block div, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-grid-allday, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-grid-content-wrap .column, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-week-grid-hours div, 
-	html .cmsmasters_color_scheme_second .widget .vcalendar .type-tribe_events, 
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar-list-wrapper .type-tribe_events, 
-	html .cmsmasters_color_scheme_second .tribe-mobile-day .tribe-events-mobile, 
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody tr, 
-	html .cmsmasters_color_scheme_second #page table.tribe-events-calendar tbody td {
-		border-color:#dcd9c9;
-	}
-	
-	html .cmsmasters_color_scheme_second table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] {
-		background-color:rgba(220, 217, 201, 0.1);
-	}
-	
-	html .cmsmasters_color_scheme_second .tribe-mini-calendar .tribe-events-othermonth, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .tribe-events-list-separator-month, 
-	html .cmsmasters_color_scheme_second .tribe-events-list .tribe-events-day-time-slot > h5,
-	html .cmsmasters_color_scheme_second .tribe-events-notices {
-		background-color:rgba(220, 217, 201, 0.2);
-	}
-	
-	html .cmsmasters_color_scheme_second .tribe-events-tooltip:before {
-		border-top-color:#dcd9c9;
-	}
-	
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-week-event .tribe-events-tooltip:before {
-		border-right-color:#dcd9c9;
-	}
-	
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-events-day-column-0 .tribe-events-tooltip:before, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-events-day-column-6 .tribe-events-tooltip:before, 
-	html .cmsmasters_color_scheme_second .tribe-events-grid .tribe-events-day-column-5 .tribe-events-tooltip:before {
-		border-left-color:#dcd9c9;
-	}
-	
-	html .cmsmasters_color_scheme_second .single-tribe_events .sidebar .widget_custom_posts_tabs_entries .cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item, 
-	html .cmsmasters_color_scheme_second .cmsmasters_single_event_meta .tribe-events-single-section-title, 
-	html .cmsmasters_color_scheme_second .tribe-events-related-events-title, 
-	html .cmsmasters_color_scheme_second .recurringinfo .recurring-info-tooltip:before {
-		border-bottom-color:#dcd9c9;
-	}
-	/* Finish Borders Color */
-
-/***************** Finish Custom 2 Tribe Events Color Scheme Rules ******************/
-
-
-/***************** Start Custom 3 Tribe Events Color Scheme Rules ******************/
-
-	/* Start Main Content Font Color */
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar tbody, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar tbody a {
-		color:#2c3b4b;
-	}
-	
-	html .cmsmasters_color_scheme_third .tribe-events-list-widget .tribe-event-featured, 
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event, 
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .tribe-event-featured, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue-widget .tribe-event-featured, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar-list-wrapper .tribe-event-featured, 
-	html .cmsmasters_color_scheme_third #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .tribe-events-loop .tribe-event-featured, 
-	html .cmsmasters_color_scheme_third .tribe-events-list #tribe-events-day.tribe-events-loop .tribe-event-featured, 
-	html .cmsmasters_color_scheme_third .type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap, 
-	html .cmsmasters_color_scheme_third .type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap:hover {
-		background-color:transparent !important;
-	}
-	/* Finish Main Content Font Color */
-	
-	
-	/* Start Primary Color */
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue-widget .vcalendar .tribe-event-featured .entry-title a, 
-	html .cmsmasters_color_scheme_third .tribe-events-organizer .tribe-events-event-meta .organizer-address span:before, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue .tribe-events-event-meta .venue-address span:before, 
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a, 
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event .tribe-events-schedule a:hover, 
-	html .cmsmasters_color_scheme_third .one_first .sidebar_layout_11 .tribe-events-adv-list-widget .tribe-events-list-widget-content-wrap .entry-title a:hover, 
-	html .cmsmasters_color_scheme_third .one_first .sidebar_layout_11 .tribe-events-list-widget .tribe-events-list-widget-content-wrap .entry-title a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-events-widget-link a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .tribe-events-viewmore a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .tribe-this-week-event .entry-title a:hover, 
-	html .cmsmasters_color_scheme_third .widget .vcalendar .entry-title a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar-list-wrapper .entry-title a:hover, 
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-events-single-event-title, 
-	html .cmsmasters_color_scheme_third #tribe-events-content > .tribe-events-button:hover, 
-	html .cmsmasters_color_scheme_third #tribe-bar-views .tribe-bar-views-list li a:hover, 
-	html .cmsmasters_color_scheme_third #tribe-bar-views .tribe-bar-views-list li.tribe-bar-active a, 
-	html .cmsmasters_color_scheme_third .tribe-events-sub-nav li a:hover, 
-	html .cmsmasters_color_scheme_third #tribe-bar-views .tribe-bar-views-list li:hover,
-	html .cmsmasters_color_scheme_third #tribe-bar-views .tribe-bar-views-list li.tribe-bar-active, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] a:hover, 
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event .cmsmasters_single_event_header_right a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue .cmsmasters_events_venue_header_right a:hover,  
-	html .cmsmasters_color_scheme_third .tribe-events-organizer .cmsmasters_events_organizer_header_right a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar tbody a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar tbody .tribe-events-present, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar tbody .tribe-events-present a, 
-	html .cmsmasters_color_scheme_third .widget .vcalendar [class*=cmsmasters_theme_icon]:before, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar-list-wrapper [class*=cmsmasters_theme_icon]:before, 
-	html .cmsmasters_color_scheme_third .tribe-events-countdown-widget .tribe-countdown-text a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .tribe-this-week-event .duration:before, 
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue:before, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .tribe-events-list-event-title a:hover {
-		color:#ff7055;
-	}
-	
-	html .cmsmasters_color_scheme_third .cmsmasters_events_more a, 
-	html .cmsmasters_color_scheme_third .datepicker thead tr:first-child th:hover, 
-	html .cmsmasters_color_scheme_third .datepicker tfoot tr th:hover, 
-	html .cmsmasters_color_scheme_third .tribe-events-notices:before, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-week-event .vevent .entry-title:hover a,
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-week-event:hover .vevent .entry-title a,
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td .type-tribe_events:hover .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td .tribe-events-month-event-title a:hover, 
-	html .cmsmasters_color_scheme_third #tribe-bar-views.tribe-bar-views-open .button,
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar thead th, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar .tribe-mini-calendar-nav, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar tbody a:before, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td.tribe-events-has-events:before, 
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .this-week-today .tribe-this-week-widget-header-date, 
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .tribe-venue-widget-venue, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue-widget .tribe-venue-widget-venue, 
-	html .cmsmasters_color_scheme_third .cmsmasters_tribe_featured_tag, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar .tribe-mini-calendar-nav th, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar .tribe-mini-calendar-nav td {
-		background-color:#ff7055;
-	}
-	
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_third .tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar tbody .tribe-events-past a:before, 
-	html .cmsmasters_color_scheme_third #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a {
-		background-color:#ff7055;
-	}
-	
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar .tribe-mini-calendar-nav tr, 
-	html .cmsmasters_color_scheme_third #tribe-bar-views.tribe-bar-views-open .button, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar .tribe-mini-calendar-nav th, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar .tribe-mini-calendar-nav td {
-		border-color:#ff7055;
-	}
-	/* Finish Primary Color */
-	
-	
-	/* Start Highlight Color */
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .tribe-this-week-event .duration, 
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue,
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue a:hover,
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .tribe-this-week-widget-header-date, 
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	html .cmsmasters_color_scheme_third .widget .vcalendar .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_third .widget .vcalendar .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue-widget .vcalendar .tribe-event-featured .entry-title a:hover, 
-	html .cmsmasters_color_scheme_third .one_first .sidebar_layout_11 .tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under,
-	html .cmsmasters_color_scheme_third .tribe-events-countdown-widget .tribe-countdown-time .tribe-countdown-under
-	html .cmsmasters_color_scheme_third .tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a:hover, 
-	html .cmsmasters_color_scheme_third .tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info, 
-	html .cmsmasters_color_scheme_third .tribe-events-organizer .tribe-events-event-meta .organizer-address a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-events-organizer .tribe-events-event-meta .organizer-address, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue .tribe-events-event-meta .venue-address a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue .tribe-events-event-meta .venue-address, 
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item a:hover, 
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item_title, 
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event .tribe-events-schedule, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td.tribe-events-othermonth div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_third .tribe-events-tooltip .duration .published, 
-	html .cmsmasters_color_scheme_third .cmsmasters-tribe-events-event-cat a, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .cmsmasters_event_time, 
-	html .cmsmasters_color_scheme_third .cmsmasters_event_big_week, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar tbody .tribe-events-othermonth, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar tbody .tribe-events-othermonth a,
-	html .cmsmasters_color_scheme_third .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] a, 
-	html .cmsmasters_color_scheme_third .tribe-events-organizer .cmsmasters_events_organizer_header_right a:before,
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event .cmsmasters_single_event_header_right a:before, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue .cmsmasters_events_venue_header_right a:before, 
-	html .cmsmasters_color_scheme_third .event_hover, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .tribe-events-event-meta, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .tribe-events-event-meta a:hover {
-		color:#8e9092;
-	}
-	/* Finish Highlight Color */
-	
-	
-	/* Start Headings Color */
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .tribe-this-week-event .tribe-venue a,
-	html .cmsmasters_color_scheme_third .widget .vcalendar .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .vcalendar .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_third .tribe_mini_calendar_widget .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar-list-wrapper .cmsmasters_widget_event_info a, 
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_third .tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_third .tribe-events-organizer .tribe-events-event-meta .organizer-address a, 
-	html .cmsmasters_color_scheme_third .tribe-events-organizer .entry-title, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue .tribe-events-event-meta .venue-address a, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue .entry-title, 
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event .tribe-events-schedule a, 
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event .tribe-events-single-event-title, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td.tribe-events-past .tribe-events-month-event-title a,
-	html .cmsmasters_color_scheme_third .cmsmasters-tribe-events-event-cat a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .tribe-events-event-meta a, 
-	html .cmsmasters_color_scheme_third .tribe-events-widget-link a, 
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .tribe-events-viewmore a, 
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .tribe-this-week-event .entry-title a, 
-	html .cmsmasters_color_scheme_third .widget .vcalendar .entry-title a, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar-list-wrapper .entry-title a, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-week-event .vevent .entry-title a, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event .cmsmasters_single_event_header_right a, 
-	html .cmsmasters_color_scheme_third .tribe-bar-filters-inner > div label, 
-	html .cmsmasters_color_scheme_third #tribe-bar-views .tribe-bar-views-list li, 
-	html .cmsmasters_color_scheme_third #tribe-bar-views .tribe-bar-views-list li a, 
-	html .cmsmasters_color_scheme_third .tribe-events-sub-nav li a, 
-	html .cmsmasters_color_scheme_third .tribe-events-notices, 
-	html .cmsmasters_color_scheme_third #tribe-events-content > .tribe-events-button, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .tribe-events-list-separator-month, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-week-event:hover .vevent .entry-title a, 
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event_meta dt, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue .cmsmasters_events_venue_header_right a, 
-	html .cmsmasters_color_scheme_third .tribe-events-organizer .cmsmasters_events_organizer_header_right a, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar thead a:hover,  
-	html .cmsmasters_color_scheme_third .tribe-events-countdown-widget .tribe-countdown-time, 
-	html .cmsmasters_color_scheme_third .tribe-events-countdown-widget .tribe-countdown-text, 
-	html .cmsmasters_color_scheme_third .tribe-events-countdown-widget .tribe-countdown-text a, 
-	html .cmsmasters_color_scheme_third .tribe-mobile-day .tribe-events-event-schedule-details, 
-	html .cmsmasters_color_scheme_third .tribe-mobile-day .tribe-event-schedule-details, 
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .tribe-events-page-title, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .tribe-events-list-event-title a, 
-	html .cmsmasters_color_scheme_third .cmsmasters_event_big_month, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] {
-		color:#2c3b4b;
-	}
-	
-	html .cmsmasters_color_scheme_third .cmsmasters_events_more a:hover, 
-	html .cmsmasters_color_scheme_third #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a:hover, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar thead th, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-grid-header, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-grid-header .tribe-week-today, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-grid-header a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar thead, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar tbody .tribe-mini-calendar-today a:before, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td.tribe-events-has-events.mobile-active:before {
-		background-color:#2c3b4b;
-	}
-	
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar thead tr {
-		border-color:#2c3b4b;
-	}
-	
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event_meta .tribe-events-single-section-title, 
-	html .cmsmasters_color_scheme_third .tribe-events-related-events-title {
-		border-top-color:#2c3b4b;
-	}
-	/* Finish Headings Color */
-	
-	
-	/* Start Main Background Color */
-	html .cmsmasters_color_scheme_third #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .tribe-venue-widget-venue-name a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .tribe-venue-widget-venue-name:before, 
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .tribe-venue-widget-venue-name a, 	
-	html .cmsmasters_color_scheme_third .tribe-events-venue-widget .tribe-venue-widget-venue-name a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue-widget .tribe-venue-widget-venue-name:before, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue-widget .tribe-venue-widget-venue-name a, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-week-event .vevent .entry-title:hover a,
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-week-event:hover .vevent .entry-title a,
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td .type-tribe_events:hover .tribe-events-month-event-title a, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td .tribe-events-month-event-title a:hover, 
-	html .cmsmasters_color_scheme_third .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_third #tribe-bar-views.tribe-bar-views-open .button,
-	html .cmsmasters_color_scheme_third .event_bg {
-		color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_third .tribe-events-tooltip:after {
-		border-top-color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_third .recurringinfo .recurring-info-tooltip:after {
-		border-bottom-color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-events-day-column-0 .tribe-events-tooltip:after, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-events-day-column-6 .tribe-events-tooltip:after, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-events-day-column-5 .tribe-events-tooltip:after {
-		border-left-color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-week-event .tribe-events-tooltip:after {
-		border-right-color:#fffef7;
-	}
-	
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-week-event .vevent .entry-title a,
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar, 
-	html .cmsmasters_color_scheme_third .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar, 
-	html .cmsmasters_color_scheme_third .tribe-events-tooltip, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-scroller, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-week-grid-hours, 
-	html .cmsmasters_color_scheme_third .tribe-events-sub-nav li span:not([class]) {
-		background-color:#fffef7;
-	}
-	/* Finish Main Background Color */
-	
-	
-	/* Start Alternate Background Color */
-	html .cmsmasters_color_scheme_third .cmsmasters_events_more a, 
-	html .cmsmasters_color_scheme_third .cmsmasters_events_more a:hover, 
-	html .cmsmasters_color_scheme_third .tribe-events-adv-list-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_third .tribe-events-venue-widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_third .tribe_mini_calendar_widget .cmsmasters_event_date .cmsmasters_event_month, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td.tribe-events-present div[id*=tribe-events-daynum-] a, 
-	html .cmsmasters_color_scheme_third .cmsmasters_tribe_featured_tag, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-grid-header a:hover span, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-grid-header span, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar thead, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar thead a, 
-	html .cmsmasters_color_scheme_third .tribe-this-week-events-widget .this-week-today .tribe-this-week-widget-header-date {
-		color:#ffffff;
-	}
-	/* Finish Alternate Background Color */
-	
-	
-	/* Start Borders Color */
-	html .cmsmasters_color_scheme_third .tribe-events-photo .tribe-events-event-meta, 
-	html .cmsmasters_color_scheme_third .tribe-events-notices,
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar tbody td,
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-week-event .vevent .entry-title,
-	html .cmsmasters_color_scheme_third .cmsmasters_event_day, 
-	html .cmsmasters_color_scheme_third .tribe-events-photo .tribe-events-list-photo-description, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-], 
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event_meta .cmsmasters_event_meta_info_item, 
-	html .cmsmasters_color_scheme_third .tribe-events-tooltip, 
-	html .cmsmasters_color_scheme_third .tribe-events-sub-nav li span:not([class]), 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td .tribe_events, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .tribe-events-list-separator-month, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .tribe-events-day-time-slot > h5, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .type-tribe_events, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-scroller, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-week-grid-block div, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-grid-allday, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-grid-content-wrap .column, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-week-grid-hours div, 
-	html .cmsmasters_color_scheme_third .widget .vcalendar .type-tribe_events, 
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar-list-wrapper .type-tribe_events, 
-	html .cmsmasters_color_scheme_third .tribe-mobile-day .tribe-events-mobile, 
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody tr, 
-	html .cmsmasters_color_scheme_third #page table.tribe-events-calendar tbody td {
-		border-color:#dcd9c9;
-	}
-	
-	html .cmsmasters_color_scheme_third table.tribe-events-calendar tbody td div[id*=tribe-events-daynum-] {
-		background-color:rgba(220, 217, 201, 0.1);
-	}
-	
-	html .cmsmasters_color_scheme_third .tribe-mini-calendar .tribe-events-othermonth, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .tribe-events-list-separator-month, 
-	html .cmsmasters_color_scheme_third .tribe-events-list .tribe-events-day-time-slot > h5,
-	html .cmsmasters_color_scheme_third .tribe-events-notices {
-		background-color:rgba(220, 217, 201, 0.2);
-	}
-	
-	html .cmsmasters_color_scheme_third .tribe-events-tooltip:before {
-		border-top-color:#dcd9c9;
-	}
-	
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-week-event .tribe-events-tooltip:before {
-		border-right-color:#dcd9c9;
-	}
-	
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-events-day-column-0 .tribe-events-tooltip:before, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-events-day-column-6 .tribe-events-tooltip:before, 
-	html .cmsmasters_color_scheme_third .tribe-events-grid .tribe-events-day-column-5 .tribe-events-tooltip:before {
-		border-left-color:#dcd9c9;
-	}
-	
-	html .cmsmasters_color_scheme_third .single-tribe_events .sidebar .widget_custom_posts_tabs_entries .cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item, 
-	html .cmsmasters_color_scheme_third .cmsmasters_single_event_meta .tribe-events-single-section-title, 
-	html .cmsmasters_color_scheme_third .tribe-events-related-events-title, 
-	html .cmsmasters_color_scheme_third .recurringinfo .recurring-info-tooltip:before {
-		border-bottom-color:#dcd9c9;
-	}
-	/* Finish Borders Color */
-
-/***************** Finish Custom 3 Tribe Events Color Scheme Rules ******************/
 
