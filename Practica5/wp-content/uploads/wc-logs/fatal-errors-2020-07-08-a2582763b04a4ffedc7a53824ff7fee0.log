@@ -1,2 +1,4 @@
 2020-07-08T04:41:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xamp\htdocs\NE\Practica5\wp-admin\includes\class-wp-screen.php on line 1352
 
+2020-07-08T15:37:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xamp\htdocs\NE\Practica5\wp-includes\cache.php on line 199
+
